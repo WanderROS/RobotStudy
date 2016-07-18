@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<network>
+    <Inet name="ipAddress" value="192.168.0.254" />
+    <Inet name="ipMask" value="255.255.255.0" />
+    <Inet name="ipAddress2" value="172.31.0.1" />
+    <Inet name="ipMask2" value="255.255.0.0" />
+</network>

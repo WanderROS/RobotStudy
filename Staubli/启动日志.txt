@@ -1,0 +1,60 @@
+[MAR 10 2014 10:26:48]: -----------------------------------------------
+[MAR 10 2014 10:26:48]: 日志开始
+[MAR 10 2014 10:27:23]: CPU board: MM01-09-4990-01.00.00 1097Mhz; 256Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAR 10 2014 10:27:23]: Cycle time set to 0.004s
+[MAR 10 2014 10:27:23]: RSI Board rev: 2 - Driver ver: 2
+[MAR 10 2014 10:27:23]: Mcp = D24275106A
+[MAR 10 2014 10:27:23]: Starc2 coder board detected (Slot: 0(Add: 0x4000), Hw: 1.0, Fw: 1.0)
+[MAR 10 2014 10:27:23]: Mcp communication established
+[MAR 10 2014 10:27:23]: FIELDBUS-Version-E-BIOS-4.6.6-LIB-3.2.0
+[MAR 10 2014 10:27:23]: 内部错误FIELDBUS-InitBoard Board=2 Equipment=0 Channel=0 Status=92
+[MAR 10 2014 10:27:23]: 上电计时=85:14:37
+[MAR 10 2014 10:27:23]: Mac 地址 =00-c0-3a-02-d3-7e
+[MAR 10 2014 10:27:23]: STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0205='2.5' - Bootloader='0.4'
+[MAR 10 2014 10:27:23]: STARC-SerialNumber:13249
+[MAR 10 2014 10:27:23]: STARC-FlashCounter:Power On Board counter=489 
+[MAR 10 2014 10:27:23]: STARC_Version Pack: 2.6 - Date:Oct 11 2012
+[MAR 10 2014 10:27:23]: STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.5 - DSP1:3.18 - DSP2:3.18
+[MAR 10 2014 10:27:23]: STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAR 10 2014 10:27:23]: STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 40773741B
+[MAR 10 2014 10:27:23]: STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 40773473B
+[MAR 10 2014 10:27:23]: STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 41694330B
+[MAR 10 2014 10:27:23]: STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 39283553B
+[MAR 10 2014 10:27:23]: STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 41959253B
+[MAR 10 2014 10:27:23]: STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 41451096B
+[MAR 10 2014 10:27:23]: STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:1 - HP1:1 - LIB:22
+[MAR 10 2014 10:27:23]: STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:1 - HP1:1 - LIB:22
+[MAR 10 2014 10:27:23]: STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:1 - HP1:1 - LIB:22
+[MAR 10 2014 10:27:23]: MCP firmware version: D24275106A
+[MAR 10 2014 10:27:23]: 工作模式 : 无效 
+[MAR 10 2014 10:27:23]: 手臂下电过程结束
+[MAR 10 2014 10:27:23]: COM-PC: server created on all interfaces [5653]
+[MAR 10 2014 10:27:23]: System: s7.5.2 Jan 10 2013
+[MAR 10 2014 10:27:23]: Configuration Version: c1.013 
+[MAR 10 2014 10:27:23]: CPU: MM01-09-4990-01.00.00 
+[MAR 10 2014 10:27:23]: Option testMode: enabled 
+[MAR 10 2014 10:27:23]: Option mcpMode: enabled 
+[MAR 10 2014 10:27:23]: Option PaintiXen: demo 
+[MAR 10 2014 10:27:23]: Option valTrack: demo 
+[MAR 10 2014 10:27:23]: Option alter: demo 
+[MAR 10 2014 10:27:23]: Option 6axesAbsoluteRobot: enabled 
+[MAR 10 2014 10:27:23]: Option VAL 3: enabled 
+[MAR 10 2014 10:27:23]: Option advCtrlFunctions: demo 
+[MAR 10 2014 10:27:23]: 控制器序列号: F13_5R0EA1_C_01 
+[MAR 10 2014 10:27:23]: 手臂: tx60l-S1-R2 落地安装
+[MAR 10 2014 10:27:23]: 手臂序列号: F13_5R0EA1_A_01 
+[MAR 10 2014 10:27:23]: 机器人名:  
+[MAR 10 2014 10:27:23]: Starc: 2.6 Oct 11 2012
+[MAR 10 2014 10:27:23]: EP: s7.5.1 Dec 21 2012
+[MAR 10 2014 10:27:23]: SCA: s7.5 Dec 21 2012
+[MAR 10 2014 10:27:23]: PLC: s7.5 Dec 21 2012
+[MAR 10 2014 10:27:23]: Options: s7.5.1 Dec 21 2012
+[MAR 10 2014 10:27:23]: 新用户: maintenance
+[MAR 10 2014 10:27:23]: End of controller initialization
+[MAR 10 2014 10:27:24]: 内部错误在现场总线中有网络错误 Board=1 Equipment=0 Channel=0 Status=33
+[MAR 10 2014 10:27:24]: 工作模式 : 手动模式
+[MAR 10 2014 10:27:24]: 系统事件INTERFACE-Stopped  主菜单)
+[MAR 10 2014 10:27:24]: 系统事件INTERFACE-Stopped  主菜单). 10事件丢失.
+[MAR 10 2014 10:27:28]: Saving controller context...
+[MAR 10 2014 10:27:33]: 控制器温度: 27°C
+[MAR 10 2014 10:27:33]: 处理器温度: 33°C

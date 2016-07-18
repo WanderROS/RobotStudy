@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<network>
+  <Bool name="dhcpClient" value="false" />
+  <Int name="dhcpClientType" value="-1" />
+  <String name="dhcpClientAddress" value="" />
+  <Inet name="ipAddress" value="10.10.92.22" />
+  <Inet name="ipMask" value="255.255.0.0" />
+  <Inet name="ipAddress2" value="0.0.0.0" />
+  <Inet name="ipMask2" value="0.0.0.0" />
+  <Uint name="remotePort" value="800" />
+  <Uint name="fieldbusConsolePort" value="5001" />
+  <Uint name="telnetPort" value="23" />
+  <ftpServer index="0" >
+    <String name="HostName" value="dataprod" />
+    <Inet name="IPaddress" value="10.10.1.16" />
+    <String name="RootPath" value="/dataprod/a_supprimer" />
+    <String name="LoginUser" value="mod1d3ftp" />
+    <String name="LoginPassword" value="23e1a13a23eb2e" />
+  </ftpServer>
+  <ftpServer index="1" >
+    <String name="HostName" value="filezilla" />
+    <Inet name="IPaddress" value="10.10.73.28" />
+    <String name="RootPath" value="/" />
+    <String name="LoginUser" value="staubli" />
+    <String name="LoginPassword" value="c245cfeb87813a" />
+  </ftpServer>
+  <soapServer>
+    <String name="host" value="" />
+    <Uint name="port" value="5653" />
+    <Int name="sendTimeout" value="60" />
+    <Int name="receiveTimeout" value="1" />
+    <Int name="acceptTimeout" value="0" />
+    <Uint name="maxKeepAlive" value="2147483647" />
+    <Float name="sessionTimeout" value="3600" />
+    <Int name="backLog" value="100" />
+  </soapServer>
+  <sntpClient>
+    <Bool name="enable" value="false" />
+    <Inet name="serverIp" value="0.0.0.0" />
+    <Int name="gmt" value="0" />
+    <Int name="timeout" value="3000" />
+  </sntpClient>
+</network>

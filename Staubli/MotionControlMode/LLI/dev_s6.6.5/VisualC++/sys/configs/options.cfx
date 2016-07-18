@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<options>
+    <String name="orderNumber" value="lli" />
+    <String name="lli" value="demo" />
+    <String name="standardFiles" value="" />
+    <Float name="lliCycleTime" value="0.004" />
+</options>

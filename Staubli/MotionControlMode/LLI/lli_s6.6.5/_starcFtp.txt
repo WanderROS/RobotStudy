@@ -1,0 +1,53 @@
+user #LOGIN# #PASSWORD#
+hash on
+mkdir /sys/Starc
+mkdir /sys/Starc/drive
+mkdir /sys/Starc/dsi
+mkdir /sys/Starc/dsp1
+mkdir /sys/Starc/dsp2
+mkdir /sys/Starc/fpga
+mkdir /sys/Starc/starc2
+asc
+cd /sys/Starc/drive
+mdelete *.*
+cd /sys/Starc/dsi
+mdelete *.*
+cd /sys/Starc/dsp1
+mdelete *.*
+cd /sys/Starc/dsp2
+mdelete *.*
+cd /sys/Starc/fpga
+mdelete *.*
+cd /sys/Starc/starc2
+mdelete *.*
+cd /sys/Starc
+mdelete *.*
+lcd
+lcd flash\sys\Starc
+put versions.cfx
+bin
+cd /sys/Starc/drive
+lcd
+lcd flash\sys\Starc\drive
+mput *.emb*
+cd /sys/Starc/dsi
+lcd
+lcd flash\sys\Starc\dsi
+mput *.hex*
+cd /sys/Starc/dsp1
+lcd 
+lcd flash\sys\Starc\dsp1
+mput *.hex*
+cd /sys/Starc/dsp2
+lcd
+lcd flash\sys\Starc\dsp2
+mput *.hex*
+cd /sys/Starc/fpga
+lcd
+lcd flash\sys\Starc\fpga
+mput *.hex*
+cd /sys/Starc/starc2
+lcd
+lcd flash\sys\Starc\starc2
+mput *.hex*
+quit

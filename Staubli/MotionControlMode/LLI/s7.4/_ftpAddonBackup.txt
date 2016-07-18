@@ -1,0 +1,9 @@
+user #LOGIN# #PASSWORD#
+hash on
+
+lcd #TEMP#\addons\#PART#
+cd /#PART#/app
+pwd
+mget *.o
+
+quit

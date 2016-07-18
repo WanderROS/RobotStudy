@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<cell>
+    <FloatArray name="minCellJointPos" >
+        <Float index="0" value="-999" />
+        <Float index="1" value="-999" />
+        <Float index="2" value="-999" />
+        <Float index="3" value="-999" />
+        <Float index="4" value="-999" />
+        <Float index="5" value="-999" />
+    </FloatArray>
+    <FloatArray name="maxCellJointPos" >
+        <Float index="0" value="999" />
+        <Float index="1" value="999" />
+        <Float index="2" value="999" />
+        <Float index="3" value="999" />
+        <Float index="4" value="999" />
+        <Float index="5" value="999" />
+    </FloatArray>
+    <FloatArray name="refPos1" >
+        <Float index="0" value="0" />
+        <Float index="1" value="0" />
+        <Float index="2" value="0" />
+        <Float index="3" value="0" />
+        <Float index="4" value="0" />
+        <Float index="5" value="0" />
+    </FloatArray>
+    <FloatArray name="refPos2" >
+        <Float index="0" value="0" />
+        <Float index="1" value="0" />
+        <Float index="2" value="0" />
+        <Float index="3" value="0" />
+        <Float index="4" value="0" />
+        <Float index="5" value="0" />
+    </FloatArray>
+</cell>

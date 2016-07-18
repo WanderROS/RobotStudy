@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Arm reference="tx90xljen_S1_arm_2" xmlns="http://www.staubli.com/robotics/tuning/1">
+  <Firmware>
+    <DsiVersionDsp>4</DsiVersionDsp>
+    <DsiVersionFpga>3</DsiVersionFpga>
+  </Firmware>
+  <Geometry>
+    <Kinematic>anthropomorph5</Kinematic>
+    <NbOfJoints>5</NbOfJoints>
+    <ArtType>
+      <ArtType index="0">rotoid</ArtType>
+      <ArtType index="1">rotoid</ArtType>
+      <ArtType index="2">rotoid</ArtType>
+      <ArtType index="3">rotoid</ArtType>
+      <ArtType index="4">rotoid</ArtType>
+    </ArtType>
+    <ArtDir>
+      <ArtDir index="0">
+        <X>0</X>
+        <Y>0</Y>
+        <Z>1</Z>
+      </ArtDir>
+      <ArtDir index="1">
+        <X>0</X>
+        <Y>1</Y>
+        <Z>0</Z>
+      </ArtDir>
+      <ArtDir index="2">
+        <X>0</X>
+        <Y>1</Y>
+        <Z>0</Z>
+      </ArtDir>
+      <ArtDir index="3">
+        <X>0</X>
+        <Y>0</Y>
+        <Z>1</Z>
+      </ArtDir>
+      <ArtDir index="4">
+        <X>0</X>
+        <Y>1</Y>
+        <Z>0</Z>
+      </ArtDir>
+    </ArtDir>
+    <Flange>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>1</Z>
+    </Flange>
+    <Base>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>268</Z>
+    </Base>
+    <ArtDim>
+      <ArtDim index="0">
+        <X>0</X>
+        <Y>161</Y>
+        <Z>210</Z>
+      </ArtDim>
+      <ArtDim index="1">
+        <X>0</X>
+        <Y>48</Y>
+        <Z>650</Z>
+      </ArtDim>
+      <ArtDim index="2">
+        <X>0</X>
+        <Y>-138</Y>
+        <Z>137</Z>
+      </ArtDim>
+      <ArtDim index="3">
+        <X>0</X>
+        <Y>0</Y>
+        <Z>563</Z>
+      </ArtDim>
+      <ArtDim index="4">
+        <X>0</X>
+        <Y>-148</Y>
+        <Z>269.6</Z>
+      </ArtDim>
+    </ArtDim>
+    <MinJntPos>
+      <MinJntPos index="0">-95</MinJntPos>
+      <MinJntPos index="1">-45</MinJntPos>
+      <MinJntPos index="2">-145</MinJntPos>
+      <MinJntPos index="3">-135</MinJntPos>
+      <MinJntPos index="4">-160</MinJntPos>
+    </MinJntPos>
+    <MaxJntPos>
+      <MaxJntPos index="0">105</MaxJntPos>
+      <MaxJntPos index="1">140</MaxJntPos>
+      <MaxJntPos index="2">55</MaxJntPos>
+      <MaxJntPos index="3">135</MaxJntPos>
+      <MaxJntPos index="4">160</MaxJntPos>
+    </MaxJntPos>
+  </Geometry>
+  <Motion>
+    <Descriptor>
+      <NomJntVel>
+        <NomJntVel index="0">190</NomJntVel>
+        <NomJntVel index="1">160</NomJntVel>
+        <NomJntVel index="2">230</NomJntVel>
+        <NomJntVel index="3">400</NomJntVel>
+        <NomJntVel index="4">345</NomJntVel>
+      </NomJntVel>
+      <NomJntAcc>
+        <NomJntAcc index="0">602</NomJntAcc>
+        <NomJntAcc index="1">427</NomJntAcc>
+        <NomJntAcc index="2">882</NomJntAcc>
+        <NomJntAcc index="3">2667</NomJntAcc>
+        <NomJntAcc index="4">1984</NomJntAcc>
+      </NomJntAcc>
+      <NomJntJerk>
+        <NomJntJerk index="0">6020</NomJntJerk>
+        <NomJntJerk index="1">4270</NomJntJerk>
+        <NomJntJerk index="2">8820</NomJntJerk>
+        <NomJntJerk index="3">26670</NomJntJerk>
+        <NomJntJerk index="4">19840</NomJntJerk>
+      </NomJntJerk>
+    </Descriptor>
+  </Motion>
+  <Safety>
+    <Limitation>
+      <MaxJntVel>
+        <MaxJntVel index="0">1900</MaxJntVel>
+        <MaxJntVel index="1">1600</MaxJntVel>
+        <MaxJntVel index="2">2300</MaxJntVel>
+        <MaxJntVel index="3">4000</MaxJntVel>
+        <MaxJntVel index="4">3450</MaxJntVel>
+      </MaxJntVel>
+      <MaxJntAcc>
+        <MaxJntAcc index="0">12040</MaxJntAcc>
+        <MaxJntAcc index="1">8540</MaxJntAcc>
+        <MaxJntAcc index="2">17640</MaxJntAcc>
+        <MaxJntAcc index="3">53340</MaxJntAcc>
+        <MaxJntAcc index="4">39680</MaxJntAcc>
+      </MaxJntAcc>
+      <JntVelCmdVelNotCal>
+        <JntVelCmdVelNotCal index="0">10.6</JntVelCmdVelNotCal>
+        <JntVelCmdVelNotCal index="1">10.6</JntVelCmdVelNotCal>
+        <JntVelCmdVelNotCal index="2">20.5</JntVelCmdVelNotCal>
+        <JntVelCmdVelNotCal index="3">45</JntVelCmdVelNotCal>
+        <JntVelCmdVelNotCal index="4">45</JntVelCmdVelNotCal>
+      </JntVelCmdVelNotCal>
+      <MaxManuJntVel>
+        <MaxManuJntVel index="0">30</MaxManuJntVel>
+        <MaxManuJntVel index="1">30</MaxManuJntVel>
+        <MaxManuJntVel index="2">30</MaxManuJntVel>
+        <MaxManuJntVel index="3">30</MaxManuJntVel>
+        <MaxManuJntVel index="4">180</MaxManuJntVel>
+      </MaxManuJntVel>
+      <EstopTime>0.5</EstopTime>
+    </Limitation>
+    <Error>
+      <MaxJntPosErr>
+        <MaxJntPosErr index="0">2.44</MaxJntPosErr>
+        <MaxJntPosErr index="1">1.5</MaxJntPosErr>
+        <MaxJntPosErr index="2">3.02</MaxJntPosErr>
+        <MaxJntPosErr index="3">3.5</MaxJntPosErr>
+        <MaxJntPosErr index="4">4.41</MaxJntPosErr>
+      </MaxJntPosErr>
+      <MaxJntFrc>
+        <MaxJntFrc index="0">100000000000000</MaxJntFrc>
+        <MaxJntFrc index="1">100000000000000</MaxJntFrc>
+        <MaxJntFrc index="2">100000000000000</MaxJntFrc>
+        <MaxJntFrc index="3">100000000000000</MaxJntFrc>
+        <MaxJntFrc index="4">100000000000000</MaxJntFrc>
+      </MaxJntFrc>
+    </Error>
+  </Safety>
+</Arm>

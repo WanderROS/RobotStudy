@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controller>
+  <String name="lli" value="Demo" />
+  <String name="simulMode" value="emulation" />
+  <String name="standardFiles" value="/tyCo/0" />
+  <Float name="lliCycleTime" value="-1" />
+</controller>

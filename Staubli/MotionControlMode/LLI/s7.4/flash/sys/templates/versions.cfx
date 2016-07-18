@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Options xmlns="http://www.staubli.com/robotics/controller/options/1" >
+  <Option name="remoteMcp" />
+  <Option name="plc" />
+  <Option name="testMode" />
+  <Option name="mcpMode" />
+  <Option name="lli" />
+  <Option name="PaintiXen" />
+  <Option name="valPlast" />
+  <Option name="valTrack" />
+  <Option name="valTending" />
+  <Option name="valTraj" />
+  <Option name="valKernel" />
+  <Option name="cds" />
+  <Option name="alter" />
+  <Option name="oemLicence" />
+  <Option name="remoteMaintenance" />
+  <Option name="pciAccess" />
+  <Option name="6axesAbsoluteRobot" />
+  <Option name="4axesAbsoluteRobot" />
+  <Option name="continuousAxis" />
+  <Option name="VAL 3" />
+  <Option name="uniVAL" />
+</Options>

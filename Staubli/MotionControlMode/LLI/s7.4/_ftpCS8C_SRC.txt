@@ -1,0 +1,179 @@
+user #LOGIN# #PASSWORD#
+hash on
+cd /sys/hw_v0
+mdelete * *.*
+cd /sys/hw_v1
+mdelete * *.*
+cd /sys/hw_v2
+mdelete * *.*
+cd /sys/Starc/drive
+mdelete * *.*
+cd /sys/Starc/dsi
+mdelete * *.*
+cd /sys/Starc/dsp1
+mdelete * *.*
+cd /sys/Starc/dsp2
+mdelete * *.*
+cd /sys/Starc/fpga
+mdelete * *.*
+cd /sys/Starc/starc2
+mdelete * *.*
+cd /sys/Starc/lib/
+mdelete * *.*
+cd /sys/Starc
+mdelete * *.*
+cd /sys/cifx/fw/channel0
+mdelete * *.*
+cd /sys/cifx/fw
+mdelete * *.*
+cd /sys/cifx
+mdelete * *.*
+cd /sys/uniVAL/xdd
+mdelete * *.*
+cd /sys/uniVAL
+mdelete * *.*
+cd /usr/app
+mdelete * *.*
+cd /log/app
+mdelete * *.*
+cd /sys/cds
+mdelete * *.*
+cd /sys/can
+mdelete * *.*
+cd /sys/app
+mdelete * *.*
+cd /sys/mcp
+mdelete * *.*
+cd /sys/templates
+mdelete * *.*
+cd /usr/configs/templates/iomap
+mdelete * *.*
+cd /usr/configs/templates/can
+mdelete * *.*
+cd /usr/configs/templates/asi
+mdelete * *.*
+cd /usr/templates/default
+mdelete * *.*
+cd /sys
+mdelete * *.*
+cd /sys/configs
+mdelete system.* fontsize.*
+cd /usr/configs
+delete iomapExample.cf
+delete asiExample.cfx
+delete canExample.cfx
+mkdir /sys/hw_v1
+mkdir /sys/hw_v2
+mkdir /sys/mcp
+mkdir /sys/app
+mkdir /sys/configs
+mkdir /sys/configs/resources
+mkdir /sys/templates
+mkdir /sys/Starc
+mkdir /sys/cds
+mkdir /sys/can
+mkdir /sys/cifx
+mkdir /sys/cifx/fw
+mkdir /sys/cifx/fw/channel0
+mkdir /sys/uniVAL
+mkdir /sys/uniVAL/xdd
+mkdir /usr/app
+mkdir /usr/configs
+mkdir /usr/configs/profiles
+mkdir /usr/configs/templates
+mkdir /usr/configs/templates/asi
+mkdir /usr/configs/templates/can
+mkdir /usr/configs/templates/iomap
+mkdir /usr/usrapp
+mkdir /usr/recorder
+mkdir /usr/templates
+mkdir /usr/applicom
+mkdir /usr/applicom/io
+mkdir /usr/applicom/modbus
+mkdir /usr/temp
+mkdir /log/app
+cd /sys
+lcd flash\sys
+bin
+send #TEMP#\sys\bootline.dat bootline.dat
+send #TARGET#.sys bootrom.sys
+send #TARGET# #TARGET#
+send src.out cs8.out
+send hw_v1/usb_dev.hex hw_v1\usb_dev.hex
+send hw_v2/usb_dev.hex hw_v2\usb_dev.hex
+cd /sys/Starc
+send Starc/starc.zfx starc.zfx
+cd /sys/cds
+lcd
+lcd flash\sys\cds
+mput *.out
+mput *.o
+mput *.ini
+cd /sys/can
+lcd
+lcd flash\sys\can
+mput *.o
+cd /sys/app
+lcd
+lcd flash\sys\app
+mput *.o
+cd /sys/configs
+lcd
+lcd flash\sys\configs
+put system.zfx
+put fontsize.cfx
+cd /sys/configs/resources
+lcd
+lcd flash\sys\configs\resources
+mput *.cfx
+cd /sys/templates
+lcd
+lcd flash\sys\templates
+mput *.cfx
+cd /sys/cifx
+lcd
+lcd flash\sys\cifx
+mput *.bin
+cd /sys/cifx/fw
+lcd
+lcd flash\sys\cifx\fw
+mput *.conf
+cd /sys/cifx/fw/channel0
+lcd
+lcd flash\sys\cifx\fw\channel0
+mput *.nxf
+cd /sys/uniVAL
+lcd
+lcd flash\sys\uniVAL
+mput *.o
+cd /sys/uniVAL/xdd
+lcd
+lcd flash\sys\uniVAL\xdd
+mput *.xdd
+cd /usr/configs/templates/iomap
+lcd
+lcd flash/usr/configs/templates/iomap
+mput *.cfx
+cd /usr/configs/templates/can
+lcd
+lcd flash/usr/configs/templates/can
+mput *.cfx
+cd /usr/configs/templates/asi
+lcd
+lcd flash/usr/configs/templates/asi
+mput *.cfx
+cd /usr/recorder
+lcd
+lcd flash\usr\recorder
+mput *.cfx
+cd /usr/configs/profiles
+lcd
+lcd flash\usr\configs\profiles
+mput *.cfx
+mkdir /usr/templates/default
+cd /usr/templates/default
+lcd
+lcd flash/usr/templates/default
+mput default.*
+mput *.pgx
+quit

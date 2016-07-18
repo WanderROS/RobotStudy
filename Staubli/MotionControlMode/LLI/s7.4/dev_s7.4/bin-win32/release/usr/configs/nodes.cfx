@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Nodes>
+  <Node name="io" >
+    <Controller type="local" >
+      <LocalPath value="Disk://io/controllerIo" />
+    </Controller>
+    <Simulated type="local" >
+      <LocalPath value="Disk://io/emulatorIo" />
+    </Simulated>
+  </Node>
+</Nodes>

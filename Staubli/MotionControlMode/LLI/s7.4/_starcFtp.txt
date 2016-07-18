@@ -1,0 +1,25 @@
+user #LOGIN# #PASSWORD#
+hash on
+mkdir /sys/Starc
+cd /sys/Starc
+cd /sys/Starc/drive
+mdelete * *.*
+cd /sys/Starc/dsi
+mdelete * *.*
+cd /sys/Starc/dsp1
+mdelete * *.*
+cd /sys/Starc/dsp2
+mdelete * *.*
+cd /sys/Starc/fpga
+mdelete * *.*
+cd /sys/Starc/starc2
+mdelete * *.*
+cd /sys/Starc/lib/
+mdelete * *.*
+cd /sys/Starc
+mdelete * *.*
+lcd flash\sys
+bin
+cd /sys/Starc
+send Starc/starc.zfx starc.zfx
+quit

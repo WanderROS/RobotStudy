@@ -1,0 +1,116 @@
+﻿<Content xmlns="http://www.staubli.com/robotics/tuning/1">
+  <Version>c1.010</Version>
+  <Tunings>
+    <Tuning Robot="rs20-S3" diameterAxis3="D25" lengthAxis3="L100" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs40-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs40-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="wall" Tuning="R3" Default="true" />
+    <Tuning Robot="rs40b-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs40b-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="wall" Tuning="R3" Default="true" />
+    <Tuning Robot="rs40b-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs40b-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="wall" Tuning="R3" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="wall" Tuning="R3" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="floor" Tuning="R4" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="wall" Tuning="R4" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L100" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L100" mounting="wall" Tuning="R3" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="floor" Tuning="R4" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="wall" Tuning="R4" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="floor" Tuning="R4" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="wall" Tuning="R4" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L600" mounting="floor" Tuning="R2" Default="true" />
+    <Tuning Robot="rs60-S1" diameterAxis3="D25" lengthAxis3="L600" mounting="wall" Tuning="R2" Default="true" />
+    <Tuning Robot="rs80-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="floor" Tuning="R3" Default="true" />
+    <Tuning Robot="rs80-S1" diameterAxis3="D20" lengthAxis3="L200" mounting="wall" Tuning="R3" Default="true" />
+    <Tuning Robot="rs80-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="floor" Tuning="R4" Default="true" />
+    <Tuning Robot="rs80-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="wall" Tuning="R4" Default="true" />
+    <Tuning Robot="rs80-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="floor" Tuning="R4" Default="true" />
+    <Tuning Robot="rs80-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="wall" Tuning="R4" Default="true" />
+    <Tuning Robot="rx130b-S1" Tuning="R4" Default="true" />
+    <Tuning Robot="rx134b-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="rx130bl-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="rx130bxl-S1" Tuning="R2" Default="true" />
+    <Tuning Robot="rx160-S1" Tuning="R9" Default="true" />
+    <Tuning Robot="rx160-S2" Tuning="R1" Default="true" />
+    <Tuning Robot="rx160l-S1" Tuning="R8" Default="true" />
+    <Tuning Robot="rx160l-S2" Tuning="R1" Default="true" />
+    <Tuning Robot="rx160lcam-S3" Tuning="R1-V1" Default="true" />
+    <Tuning Robot="rx160lcam-S2" Tuning="R1-V3" Default="true" />
+    <Tuning Robot="rx160lcam-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="rx170b-S1" Tuning="R6" Default="true" />
+    <Tuning Robot="rx170bhp-S1" Tuning="R4" Default="true" />
+    <Tuning Robot="rx170bl-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="rx170bl-S1" Tuning="R3-V3" />
+    <Tuning Robot="rx170hsm-S2" Tuning="R2" Default="true" />
+    <Tuning Robot="rx170hsm-S2" Tuning="R1-V2" />
+    <Tuning Robot="rx260-S2" Tuning="R3" Default="true" />
+    <Tuning Robot="rx260-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="rx260l-S2" Tuning="R1" Default="true" />
+    <Tuning Robot="rx260l-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="rx270-S2" Tuning="R1" Default="true" />
+    <Tuning Robot="rx270-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="rx60b-S2" Tuning="R5" Default="true" />
+    <Tuning Robot="rx60b-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="rx60bl-S2" Tuning="R4" Default="true" />
+    <Tuning Robot="rx60bl-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="rx90b-S1" Tuning="R5" Default="true" />
+    <Tuning Robot="rx94b-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="rx90bl-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="tp80-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="wall" Tuning="R1-V5" />
+    <Tuning Robot="tp80-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="wall" Tuning="R1-V6" />
+    <Tuning Robot="tp80-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="wall" Tuning="R1-V7" />
+    <Tuning Robot="tp80-S1" diameterAxis3="D20" lengthAxis3="L100" mounting="wall" Tuning="R1-V8" Default="true" />
+    <Tuning Robot="ts20-S1" diameterAxis3="D25" lengthAxis3="L100" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="wall" Tuning="R2-V1" Default="true" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="floor" Tuning="R2-V1" Default="true" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="wall" Tuning="R2-V1" Default="true" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="floor" Tuning="R2-V1" Default="true" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="wall" Tuning="R1-V4" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="floor" Tuning="R1-V4" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="wall" Tuning="R1-V4" />
+    <Tuning Robot="ts40-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="floor" Tuning="R1-V4" />
+    <Tuning Robot="ts60-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="ts60-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="wall" Tuning="R1" Default="true" />
+    <Tuning Robot="ts60-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="ts60-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="wall" Tuning="R1" Default="true" />
+    <Tuning Robot="ts80-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="ts80-S1" diameterAxis3="D25" lengthAxis3="L200" mounting="wall" Tuning="R1" Default="true" />
+    <Tuning Robot="ts80-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="ts80-S1" diameterAxis3="D25" lengthAxis3="L400" mounting="wall" Tuning="R1" Default="true" />
+    <Tuning Robot="tx200-S3" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="tx200-S3" mounting="ceiling" Tuning="R1" Default="true" />
+    <Tuning Robot="tx200-S3" mounting="floor" Tuning="R2-V1" />
+    <Tuning Robot="tx200-S3" mounting="ceiling" Tuning="R2-V1" />
+    <Tuning Robot="tx200-S2" Tuning="R1" Default="true" />
+    <Tuning Robot="tx200l-S2" mounting="floor" Tuning="R1" />
+    <Tuning Robot="tx200l-S2" mounting="floor" Tuning="R2" Default="true" />
+    <Tuning Robot="tx200l-S2" mounting="floor" Tuning="R3-V1" />
+    <Tuning Robot="tx200l-S2" mounting="ceiling" Tuning="R1" />
+    <Tuning Robot="tx200l-S2" mounting="ceiling" Tuning="R2" Default="true" />
+    <Tuning Robot="tx200l-S2" mounting="ceiling" Tuning="R3-V1" />
+    <Tuning Robot="tx200l-S1" mounting="floor" Tuning="R1" Default="true" />
+    <Tuning Robot="tx200l-S1" mounting="ceiling" Tuning="R1" Default="true" />
+    <Tuning Robot="tx250paint-S1" Tuning="R1-V3" Default="true" />
+    <Tuning Robot="tx250paint-S2" Tuning="R1-V1" />
+    <Tuning Robot="tx250paint-S2" Tuning="R1-V2" Default="true" />
+    <Tuning Robot="tx40-S2" Tuning="R2" Default="true" />
+    <Tuning Robot="tx40-S1" Tuning="R2" Default="true" />
+    <Tuning Robot="tx60-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="tx60l-S1" Tuning="R2" Default="true" />
+    <Tuning Robot="tx90-S1" Tuning="R5" />
+    <Tuning Robot="tx90-S1" Tuning="R6" Default="true" />
+    <Tuning Robot="tx90l-S1" Tuning="R3" Default="true" />
+    <Tuning Robot="tx90xl-S1" Tuning="R5" Default="true" />
+    <Tuning Robot="tx90xljen-S1" Tuning="R2" Default="true" />
+    <Tuning Robot="vrbc5-S1" Tuning="R1" Default="true" />
+    <Tuning Robot="vrbc6-S1" Tuning="R6" Default="true" />
+    <Tuning Robot="vrbc6-S2" Tuning="R6" Default="true" />
+    <Tuning Robot="vrbh6-S1" Tuning="R5" Default="true" />
+    <Tuning Robot="vrbl5-S1" Tuning="R2" Default="true" />
+    <Tuning Robot="vrbl6-S1" Tuning="R5" Default="true" />
+    <Tuning Robot="vrbl6-S2" Tuning="R5" Default="true" />
+    <Tuning Robot="vrc216-S1" Tuning="R1-V3" />
+    <Tuning Robot="vrc216-S1" Tuning="R1-V4" />
+    <Tuning Robot="vrc216-S1" Tuning="R1-V5" Default="true" />
+  </Tunings>
+</Content>

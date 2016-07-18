@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<programList xmlns="ProgramNameSpace">
+  <program name="start" public="false">
+    <description />
+    <paramSection />
+    <localSection>
+      <local name="l_nTrajID" type="num" size="1" />
+      <local name="l_jStart" type="joint" size="1" />
+      <local name="l_n" type="num" size="1" />
+      <local name="l_sTrajFileName" type="string" size="1" />
+      <local name="l_sRecFileName" type="string" size="1" />
+      <local name="l_nErrCode" type="num" size="1" />
+    </localSection>
+    <source>
+      <code>begin
+  cls()
+  putln("Hello")
+
+  // program parameters
+  l_sTrajFileName = "Disk://traj.trj"
+  l_sRecFileName="Disk://ilc.rec"
+  
+  // load trajectory
+  l_nTrajID=$trajLoad(l_sTrajFileName)
+  putln("loaded "+l_sTrajFileName)
+  
+  // get start position
+  l_jStart=$trajStartJoint(l_nTrajID)
+  
+  // ILC LOOP
+  for l_n=1 to nNumLoops
+    putln("Loop " + toString("",l_n))
+
+    // move to start point
+    movej(l_jStart,flange,mSlow)
+    putln("moving to start")
+
+    // wait for empty motion stack
+    waitEndMove()
+    putln("start point reached")
+
+    // configure recorder and start it
+    $recClean("c")
+    $recAdd("c","jntFbkPos")
+    $recAdd("c","moveType")
+    $recStart("c",999999,250)
+    putln("recorder configured and started")
+
+    // play trajectory
+    $trajMove(l_nTrajID,flange)
+    putln("playing trajectory")
+
+    // wait for empty motion stack
+    waitEndMove()
+    putln("trajectory finished")
+
+    // Add 3 x 4ms tics: delay between position command and feedback
+    delay(3*0.004)
+
+    // stop record and store data
+    $recStop("c")
+    $recStore("c",l_sRecFileName)
+    putln("record stored : " + l_sRecFileName)
+
+    // adjust trajectory
+    l_nErrCode = $trajAdjust(l_nTrajID,l_sRecFileName)
+    putln("trajAdjust returned " + toString("",l_nErrCode))
+  endFor
+
+  putln("FINISHED !!!")
+end
+
+      </code>
+    </source>
+  </program>
+</programList>
