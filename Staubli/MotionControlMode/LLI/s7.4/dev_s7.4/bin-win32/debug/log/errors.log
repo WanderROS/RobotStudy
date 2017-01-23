@@ -1,0 +1,30 @@
+﻿[01/05/13 13:17:47]: -----------------------------------------------
+[01/05/13 13:17:47]: Logger started
+[01/05/13 13:17:51]: CPU board: TEKNOR ?Mhz; ?Mb RAM; ?Mb disk; bios: ?; fpga: ?; ataIde: ?
+[01/05/13 13:17:51]: Cycle time set to 0.1s
+[01/05/13 13:17:51]: Controller IP address could not be updated
+[01/05/13 13:17:51]: STARC : No STARC board detected on PCI.
+[01/05/13 13:17:51]: Power hour count = 0:00:00
+[01/05/13 13:17:51]: Mac Address = 00-50-56-c0-00-08
+[01/05/13 13:17:51]: mount node 'io' on '.\usr/usrapp/io/emulatorIo'
+[01/05/13 13:17:51]: warning: node 'io': root path '.\usr/usrapp/io/emulatorIo' not exist
+[01/05/13 13:17:51]: LLI: s7.4 Jul  5 2012
+[01/05/13 13:17:51]: Configuration Version: c1.010 
+[01/05/13 13:17:51]: Option lli: enabled 
+[01/05/13 13:17:51]: Option VAL 3: enabled 
+[01/05/13 13:17:51]: Machine Number: ? 
+[01/05/13 13:17:51]: Arm: tx90-S1-R6 floor
+[01/05/13 13:17:51]: Arm serial number: ? 
+[01/05/13 13:17:51]: Robot name:  
+[01/05/13 13:17:51]: New profile : default
+[01/05/13 13:17:51]: End of controller initialization
+[01/05/13 13:17:51]: Working mode:remote.
+[01/05/13 13:17:52]: Working mode:remote. (1)
+[01/05/13 13:17:52]: End of arm power shutdown phase.
+[01/05/13 13:17:56]: Saving controller context...
+[01/05/13 13:17:56]: Error closing controller.cfx
+[01/05/13 13:17:56]: Error closing cell.cfx
+[01/05/13 13:17:56]: Error closing network.cfx
+[01/05/13 13:17:57]: Error closing encoder.cfx
+[01/05/13 13:17:57]: Cabinet temperature: 28 degC
+[01/05/13 13:17:57]: CPU temperature: 28 degC

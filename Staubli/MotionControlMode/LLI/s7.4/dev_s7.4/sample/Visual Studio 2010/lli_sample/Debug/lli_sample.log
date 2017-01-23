@@ -1,0 +1,48 @@
+﻿生成启动时间为 2013-1-5 13:17:27。
+     1>项目“D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\lli_sample\lli_sample.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\lli_sample.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\inc /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\src\algo1.c ..\..\src\algo2.c ..\..\src\isr.c ..\..\src\synchro.c ..\..\src\test.c ..\..\src\testkin.c ..\..\src\winfunctions.c
+         winfunctions.c
+         testkin.c
+         test.c
+         synchro.c
+         isr.c
+         algo2.c
+         algo1.c
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\lli_sample.exe.embed.manifest.res" Debug\lli_sample_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\..\..\bin-win32\debug" lli_lowlevelinterf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lli_sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.lib" /MACHINE:X86 Debug\lli_sample.exe.embed.manifest.res
+         Debug\algo1.obj
+         Debug\algo2.obj
+         Debug\isr.obj
+         Debug\synchro.obj
+         Debug\test.obj
+         Debug\testkin.obj
+         Debug\winfunctions.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\lli_sample.exe.embed.manifest" /manifest Debug\lli_sample.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\lli_sample.exe.embed.manifest.res" Debug\lli_sample_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\..\..\bin-win32\debug" lli_lowlevelinterf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lli_sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.lib" /MACHINE:X86 Debug\lli_sample.exe.embed.manifest.res
+         Debug\algo1.obj
+         Debug\algo2.obj
+         Debug\isr.obj
+         Debug\synchro.obj
+         Debug\test.obj
+         Debug\testkin.obj
+         Debug\winfunctions.obj
+         lli_sample.vcxproj -> D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\Debug\lli_sample.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\lli_sample.unsuccessfulbuild”。
+         正在对“Debug\lli_sample.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Yanjie\学习\LLI\s7.4\dev_s7.4\sample\Visual Studio 2010\lli_sample\lli_sample.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.15

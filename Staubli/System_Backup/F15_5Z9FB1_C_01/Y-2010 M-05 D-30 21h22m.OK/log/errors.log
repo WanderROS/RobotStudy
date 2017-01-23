@@ -1,0 +1,1124 @@
+﻿[MAY 24 2010 23:13:16]: -----------------------------------------------
+[MAY 24 2010 23:13:16]: 交换后重启日志记录功能
+[MAY 24 2010 23:13:16]: <0x1601> 手臂已上电
+[MAY 24 2010 23:13:22]: <0x5402> Robotscan 应用程序开始
+[MAY 24 2010 23:14:26]: <0x2401> Saving controller context...
+[MAY 24 2010 23:44:29]: <0x2402> Saving controller context... (1)
+[MAY 24 2010 23:44:29]: <0x2402> 控制器温度: 39°C
+[MAY 24 2010 23:53:57]: <0x5403> Robotscan 应用程序停止
+[MAY 24 2010 23:53:59]: <0x1604> 手臂下电...
+[MAY 24 2010 23:54:00]: <0x1602> 手臂下电过程结束
+[MAY 24 2010 23:54:06]: <0x2402> COM-PC: create session 192.168.0.2 on port 1215 id=#79316808
+[MAY 24 2010 23:54:10]: <0x1603> 手臂上电中... 
+[MAY 24 2010 23:54:11]: <0x1601> 手臂已上电
+[MAY 24 2010 23:54:18]: <0x5402> Robotscan 应用程序开始
+[MAY 24 2010 23:55:03]: <0x1604> 手臂下电...
+[MAY 24 2010 23:55:04]: <0x1602> 手臂下电过程结束
+[MAY 24 2010 23:55:05]: <0x2402> COM-PC: destroy session 192.168.0.2 on port 1215 id=#79316808
+[MAY 24 2010 23:55:40]: <0x2402> COM-PC: create session 192.168.0.2 on port 1277 id=#89169624
+[MAY 24 2010 23:55:43]: <0x1603> 手臂上电中... 
+[MAY 24 2010 23:55:43]: <0x1601> 手臂已上电
+[MAY 24 2010 23:56:01]: <0x2402> Assertion failed tSoapClt : l_ret, file D:/ccm_liv/s7.7.2/noyau_db/u_util/src/u_fifo.cpp, line 165
+[MAY 24 2010 23:57:03]: <0x2402> COM-PC: create session 192.168.0.2 on port 1281 id=#75692480
+[MAY 24 2010 23:57:06]: <0x1604> 手臂下电...
+[MAY 24 2010 23:57:07]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 00:03:01]: <0x2402> COM-PC: create session 192.168.0.2 on port 1284 id=#79352224
+[MAY 25 2010 00:03:05]: <0x1603> 手臂上电中... 
+[MAY 25 2010 00:03:05]: <0x1601> 手臂已上电
+[MAY 25 2010 00:04:30]: <0x2402> COM-PC: create session 192.168.0.2 on port 1287 id=#7988432
+[MAY 25 2010 00:04:37]: <0x1604> 手臂下电...
+[MAY 25 2010 00:04:38]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 00:04:44]: <0x1603> 手臂上电中... 
+[MAY 25 2010 00:04:45]: <0x1601> 手臂已上电
+[MAY 25 2010 00:14:33]: <0x2401> Saving controller context...
+[MAY 25 2010 00:14:33]: <0x2402> 处理器温度: 42°C
+[MAY 25 2010 00:21:27]: <0x2402> COM-PC: create session 192.168.0.2 on port 1292 id=#45238096
+[MAY 25 2010 00:22:25]: <0x1604> 手臂下电...
+[MAY 25 2010 00:22:26]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 00:22:33]: <0x2402> COM-PC: destroy session 192.168.0.2 on port 1292 id=#45238096
+[MAY 25 2010 00:22:57]: <0x2402> COM-PC: create session 192.168.0.2 on port 1376 id=#45238096
+[MAY 25 2010 00:23:03]: <0x1603> 手臂上电中... 
+[MAY 25 2010 00:23:03]: <0x1601> 手臂已上电
+[MAY 25 2010 00:23:49]: <0x2402> COM-PC: create session 192.168.0.2 on port 1385 id=#89337304
+[MAY 25 2010 00:26:44]: <0x1604> 手臂下电...
+[MAY 25 2010 00:26:45]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 00:27:31]: <0x1A03> 系统事件INTERFACE-Stopped  任务管理器)
+[MAY 25 2010 00:44:39]: <0x2401> Saving controller context...
+[MAY 25 2010 00:44:39]: <0x2402> 控制器温度: 38°C
+[MAY 25 2010 01:14:46]: <0x2401> Saving controller context...
+[MAY 25 2010 01:14:47]: <0x2402> 控制器温度: 36°C
+[MAY 25 2010 01:14:47]: <0x2402> 处理器温度: 40°C
+[MAY 25 2010 01:19:16]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 25 2010 16:11:16]: -----------------------------------------------
+[MAY 25 2010 16:11:16]: 日志开始
+[MAY 25 2010 16:12:20]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 25 2010 16:12:20]: <0x0003> Cycle time set to 0.002s
+[MAY 25 2010 16:12:20]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 25 2010 16:12:21]: <0x0003> Mcp = D24275106A
+[MAY 25 2010 16:12:21]: <0x0002> Default user payload used.
+[MAY 25 2010 16:12:21]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 25 2010 16:12:21]: <0x340A> Mcp communication established
+[MAY 25 2010 16:12:21]: <0x2401> 上电计时=167:30:52
+[MAY 25 2010 16:12:21]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 25 2010 16:12:21]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 25 2010 16:12:21]: <0x3003> STARC-SerialNumber:18342
+[MAY 25 2010 16:12:21]: <0x3002> STARC-FlashCounter:Power On Board counter=215 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 25 2010 16:12:21]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 25 2010 16:12:21]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 25 2010 16:12:21]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 25 2010 16:12:21]: <0x0003> MCP firmware version: D24275106A
+[MAY 25 2010 16:12:21]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 16:12:21]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 25 2010 16:12:21]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 25 2010 16:12:21]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 25 2010 16:12:21]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 25 2010 16:12:21]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 25 2010 16:12:21]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 25 2010 16:12:21]: <0x1805> 工作模式 : 无效 
+[MAY 25 2010 16:12:21]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 25 2010 16:12:21]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 25 2010 16:12:21]: <0x2401> Configuration Version: c1.029 
+[MAY 25 2010 16:12:21]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 25 2010 16:12:21]: <0x2401> Option testMode: enabled 
+[MAY 25 2010 16:12:21]: <0x2401> Option mcpMode: enabled 
+[MAY 25 2010 16:12:21]: <0x2401> Option VAL 3: enabled 
+[MAY 25 2010 16:12:21]: <0x2401> Option uniVAL: enabled 
+[MAY 25 2010 16:12:21]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 25 2010 16:12:21]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 25 2010 16:12:21]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 25 2010 16:12:21]: <0x2401> 机器人名:  
+[MAY 25 2010 16:12:21]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 25 2010 16:12:21]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 25 2010 16:12:21]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 25 2010 16:12:21]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 25 2010 16:12:21]: <0x2201> 新用户: default
+[MAY 25 2010 16:12:21]: <0x2401> End of controller initialization
+[MAY 25 2010 16:12:21]: <0x1804> 工作模式 : 远程
+[MAY 25 2010 16:12:21]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 25 2010 16:12:21]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 6事件丢失.
+[MAY 25 2010 16:32:45]: <0x1805> 工作模式 : 无效 
+[MAY 25 2010 16:32:45]: <0x1801> 工作模式 : 自动
+[MAY 25 2010 16:32:51]: <0x1805> 工作模式 : 无效 
+[MAY 25 2010 16:32:51]: <0x1802> 工作模式 : 手动模式
+[MAY 25 2010 16:32:52]: <0x1805> 工作模式 : 无效 
+[MAY 25 2010 16:32:52]: <0x1803> 工作模式 : 测试
+[MAY 25 2010 16:32:52]: <0x5A04> Deadman lock to validated
+[MAY 25 2010 16:32:52]: <0x5A02> Deadman disabled.
+[MAY 25 2010 16:32:52]: <0x1805> 工作模式 : 无效 
+[MAY 25 2010 16:32:53]: <0x1804> 工作模式 : 远程
+[MAY 25 2010 16:37:54]: <0x2402> COM-PC: create session 192.168.0.2 on port 1031 id=#47196760
+[MAY 25 2010 16:37:59]: <0x1603> 手臂上电中... 
+[MAY 25 2010 16:37:59]: <0x1601> 手臂已上电
+[MAY 25 2010 16:38:07]: <0x5402> Robotscan 应用程序开始
+[MAY 25 2010 16:38:37]: <0x5403> Robotscan 应用程序停止
+[MAY 25 2010 16:38:43]: <0x1604> 手臂下电...
+[MAY 25 2010 16:38:44]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 16:42:28]: <0x2401> Saving controller context...
+[MAY 25 2010 16:42:29]: <0x2402> 控制器温度: 32°C
+[MAY 25 2010 16:42:29]: <0x2402> 处理器温度: 37°C
+[MAY 25 2010 16:44:19]: <0x2402> COM-PC: create session 192.168.0.2 on port 1034 id=#89318296
+[MAY 25 2010 16:44:23]: <0x1603> 手臂上电中... 
+[MAY 25 2010 16:44:23]: <0x1601> 手臂已上电
+[MAY 25 2010 16:44:53]: <0x1604> 手臂下电...
+[MAY 25 2010 16:44:54]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 16:44:56]: <0x2402> COM-PC: destroy session 192.168.0.2 on port 1034 id=#89318296
+[MAY 25 2010 16:49:27]: <0x2402> COM-PC: create session 192.168.0.2 on port 1076 id=#89207488
+[MAY 25 2010 16:49:31]: <0x1603> 手臂上电中... 
+[MAY 25 2010 16:49:31]: <0x1601> 手臂已上电
+[MAY 25 2010 16:50:54]: <0x2402> COM-PC: create session 192.168.0.2 on port 1080 id=#89207104
+[MAY 25 2010 16:52:13]: <0x2402> COM-PC: create session 192.168.0.2 on port 1085 id=#89132728
+[MAY 25 2010 16:55:54]: <0x2402> COM-PC: create session 192.168.0.2 on port 1156 id=#93153528
+[MAY 25 2010 16:56:59]: <0x2402> COM-PC: create session 192.168.0.2 on port 1164 id=#81364512
+[MAY 25 2010 17:00:51]: <0x2402> COM-PC: create session 192.168.0.2 on port 1170 id=#93318344
+[MAY 25 2010 17:01:05]: <0x1604> 手臂下电...
+[MAY 25 2010 17:01:06]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 17:12:34]: <0x2401> Saving controller context...
+[MAY 25 2010 17:12:34]: <0x2402> 控制器温度: 34°C
+[MAY 25 2010 17:12:34]: <0x2402> 处理器温度: 39°C
+[MAY 25 2010 17:19:46]: <0x2402> COM-PC: create session 192.168.0.2 on port 1174 id=#93319880
+[MAY 25 2010 17:19:53]: <0x1603> 手臂上电中... 
+[MAY 25 2010 17:19:53]: <0x1601> 手臂已上电
+[MAY 25 2010 17:21:10]: <0x2402> COM-PC: create session 192.168.0.2 on port 1177 id=#93320080
+[MAY 25 2010 17:22:04]: <0x2402> COM-PC: create session 192.168.0.2 on port 1180 id=#93322376
+[MAY 25 2010 17:22:30]: <0x1604> 手臂下电...
+[MAY 25 2010 17:22:31]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 17:42:41]: <0x2401> Saving controller context...
+[MAY 25 2010 18:00:17]: <0x2402> COM-PC: create session 192.168.0.2 on port 1186 id=#93319600
+[MAY 25 2010 18:06:12]: <0x2402> COM-PC: create session 192.168.0.2 on port 1189 id=#45676368
+[MAY 25 2010 18:12:49]: <0x2401> Saving controller context...
+[MAY 25 2010 18:19:17]: <0x2402> COM-PC: create session 192.168.0.2 on port 1201 id=#93369280
+[MAY 25 2010 18:19:21]: <0x1603> 手臂上电中... 
+[MAY 25 2010 18:19:21]: <0x1601> 手臂已上电
+[MAY 25 2010 18:20:03]: <0x5402> Robotscan 应用程序开始
+[MAY 25 2010 18:20:22]: <0x5403> Robotscan 应用程序停止
+[MAY 25 2010 18:20:27]: <0x1604> 手臂下电...
+[MAY 25 2010 18:20:28]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 18:22:36]: <0x2402> COM-PC: create session 192.168.0.2 on port 1206 id=#88878992
+[MAY 25 2010 18:22:41]: <0x1603> 手臂上电中... 
+[MAY 25 2010 18:22:41]: <0x1601> 手臂已上电
+[MAY 25 2010 18:27:53]: <0x2402> COM-PC: create session 192.168.0.2 on port 1210 id=#88879664
+[MAY 25 2010 18:32:07]: <0x1604> 手臂下电...
+[MAY 25 2010 18:32:08]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 21:30:11]: -----------------------------------------------
+[MAY 25 2010 21:30:11]: 日志开始
+[MAY 25 2010 21:31:15]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 25 2010 21:31:15]: <0x0003> Cycle time set to 0.002s
+[MAY 25 2010 21:31:16]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 25 2010 21:31:16]: <0x0003> Mcp = D24275106A
+[MAY 25 2010 21:31:16]: <0x0002> Default user payload used.
+[MAY 25 2010 21:31:16]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 25 2010 21:31:16]: <0x340A> Mcp communication established
+[MAY 25 2010 21:31:16]: <0x2401> 上电计时=167:46:15
+[MAY 25 2010 21:31:16]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 25 2010 21:31:16]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 25 2010 21:31:16]: <0x3003> STARC-SerialNumber:18342
+[MAY 25 2010 21:31:16]: <0x3002> STARC-FlashCounter:Power On Board counter=216 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 25 2010 21:31:16]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 25 2010 21:31:16]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 25 2010 21:31:16]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 25 2010 21:31:16]: <0x0003> MCP firmware version: D24275106A
+[MAY 25 2010 21:31:16]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 21:31:16]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 25 2010 21:31:16]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 25 2010 21:31:16]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 25 2010 21:31:16]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 25 2010 21:31:16]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 25 2010 21:31:16]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 25 2010 21:31:16]: <0x1805> 工作模式 : 无效 
+[MAY 25 2010 21:31:16]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 25 2010 21:31:16]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 25 2010 21:31:16]: <0x2401> Configuration Version: c1.029 
+[MAY 25 2010 21:31:16]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 25 2010 21:31:16]: <0x2401> Option testMode: enabled 
+[MAY 25 2010 21:31:16]: <0x2401> Option mcpMode: enabled 
+[MAY 25 2010 21:31:16]: <0x2401> Option VAL 3: enabled 
+[MAY 25 2010 21:31:16]: <0x2401> Option uniVAL: enabled 
+[MAY 25 2010 21:31:16]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 25 2010 21:31:16]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 25 2010 21:31:16]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 25 2010 21:31:16]: <0x2401> 机器人名:  
+[MAY 25 2010 21:31:16]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 25 2010 21:31:16]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 25 2010 21:31:16]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 25 2010 21:31:16]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 25 2010 21:31:16]: <0x2201> 新用户: default
+[MAY 25 2010 21:31:16]: <0x2401> End of controller initialization
+[MAY 25 2010 21:31:16]: <0x1804> 工作模式 : 远程
+[MAY 25 2010 21:31:16]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 25 2010 21:31:16]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 7事件丢失.
+[MAY 25 2010 22:01:23]: <0x2401> Saving controller context...
+[MAY 25 2010 22:01:23]: <0x2402> 控制器温度: 33°C
+[MAY 25 2010 22:01:23]: <0x2402> 处理器温度: 39°C
+[MAY 25 2010 22:01:44]: <0x2402> COM-PC: create session 192.168.0.2 on port 1039 id=#75387064
+[MAY 25 2010 22:01:48]: <0x1603> 手臂上电中... 
+[MAY 25 2010 22:01:48]: <0x1601> 手臂已上电
+[MAY 25 2010 22:02:11]: <0x1604> 手臂下电...
+[MAY 25 2010 22:02:12]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 22:02:28]: <0x2402> COM-PC: create session 192.168.0.2 on port 1045 id=#55334784
+[MAY 25 2010 22:02:31]: <0x1603> 手臂上电中... 
+[MAY 25 2010 22:02:32]: <0x1601> 手臂已上电
+[MAY 25 2010 22:07:30]: <0x2402> COM-PC: create session 192.168.0.2 on port 1049 id=#45667880
+[MAY 25 2010 22:17:57]: <0x2402> COM-PC: create session 192.168.0.2 on port 1063 id=#55334520
+[MAY 25 2010 22:18:48]: <0x2402> COM-PC: destroy session 192.168.0.2 on port 1063 id=#55334520
+[MAY 25 2010 22:18:54]: <0x2402> COM-PC: create session 192.168.0.2 on port 1112 id=#54255264
+[MAY 25 2010 22:18:57]: <0x1604> 手臂下电...
+[MAY 25 2010 22:18:58]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 22:18:59]: <0x2402> COM-PC: destroy session 192.168.0.2 on port 1112 id=#54255264
+[MAY 25 2010 22:19:58]: <0x2402> COM-PC: create session 192.168.0.2 on port 1169 id=#54252664
+[MAY 25 2010 22:20:04]: <0x1603> 手臂上电中... 
+[MAY 25 2010 22:20:04]: <0x1601> 手臂已上电
+[MAY 25 2010 22:22:18]: <0x2402> COM-PC: create session 192.168.0.2 on port 1175 id=#45215336
+[MAY 25 2010 22:24:26]: <0x2402> COM-PC: create session 192.168.0.2 on port 1177 id=#45213808
+[MAY 25 2010 22:24:31]: <0x1604> 手臂下电...
+[MAY 25 2010 22:24:32]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 22:24:36]: <0x1603> 手臂上电中... 
+[MAY 25 2010 22:24:37]: <0x1601> 手臂已上电
+[MAY 25 2010 22:24:55]: <0x1604> 手臂下电...
+[MAY 25 2010 22:24:56]: <0x1602> 手臂下电过程结束
+[MAY 25 2010 22:31:27]: <0x2401> Saving controller context...
+[MAY 25 2010 22:31:28]: <0x2402> 控制器温度: 35°C
+[MAY 25 2010 22:31:28]: <0x2402> 处理器温度: 41°C
+[MAY 25 2010 23:01:35]: <0x2401> Saving controller context...
+[MAY 25 2010 23:01:35]: <0x2402> 处理器温度: 40°C
+[MAY 25 2010 23:06:29]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 27 2010 23:13:29]: -----------------------------------------------
+[MAY 27 2010 23:13:29]: 日志开始
+[MAY 27 2010 23:14:33]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 27 2010 23:14:33]: <0x0003> Cycle time set to 0.002s
+[MAY 27 2010 23:14:33]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 27 2010 23:14:33]: <0x0003> Mcp = D24275106A
+[MAY 27 2010 23:14:33]: <0x0002> Default user payload used.
+[MAY 27 2010 23:14:33]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 27 2010 23:14:33]: <0x340A> Mcp communication established
+[MAY 27 2010 23:14:33]: <0x2401> 上电计时=168:07:49
+[MAY 27 2010 23:14:33]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 27 2010 23:14:34]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 27 2010 23:14:34]: <0x3003> STARC-SerialNumber:18342
+[MAY 27 2010 23:14:34]: <0x3002> STARC-FlashCounter:Power On Board counter=217 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 27 2010 23:14:34]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 27 2010 23:14:34]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 27 2010 23:14:34]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 27 2010 23:14:34]: <0x0003> MCP firmware version: D24275106A
+[MAY 27 2010 23:14:34]: <0x1602> 手臂下电过程结束
+[MAY 27 2010 23:14:34]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 27 2010 23:14:34]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 27 2010 23:14:34]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 27 2010 23:14:34]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 27 2010 23:14:34]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 27 2010 23:14:34]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 27 2010 23:14:34]: <0x1805> 工作模式 : 无效 
+[MAY 27 2010 23:14:34]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 27 2010 23:14:34]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 27 2010 23:14:34]: <0x2401> Configuration Version: c1.029 
+[MAY 27 2010 23:14:34]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 27 2010 23:14:34]: <0x2401> Option testMode: enabled 
+[MAY 27 2010 23:14:34]: <0x2401> Option mcpMode: enabled 
+[MAY 27 2010 23:14:34]: <0x2401> Option VAL 3: enabled 
+[MAY 27 2010 23:14:34]: <0x2401> Option uniVAL: enabled 
+[MAY 27 2010 23:14:34]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 27 2010 23:14:34]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 27 2010 23:14:34]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 27 2010 23:14:34]: <0x2401> 机器人名:  
+[MAY 27 2010 23:14:34]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 27 2010 23:14:34]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 27 2010 23:14:34]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 27 2010 23:14:34]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 27 2010 23:14:34]: <0x2201> 新用户: default
+[MAY 27 2010 23:14:34]: <0x2401> End of controller initialization
+[MAY 27 2010 23:14:34]: <0x1804> 工作模式 : 远程
+[MAY 27 2010 23:14:34]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 27 2010 23:14:34]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 3事件丢失.
+[MAY 27 2010 23:15:30]: <0x1805> 工作模式 : 无效 
+[MAY 27 2010 23:15:30]: <0x1801> 工作模式 : 自动
+[MAY 27 2010 23:15:34]: <0x5402> XHS3023L 应用程序开始
+[MAY 27 2010 23:15:38]: <0x1603> 手臂上电中... 
+[MAY 27 2010 23:15:39]: <0x1601> 手臂已上电
+[MAY 27 2010 23:44:39]: <0x2401> Saving controller context...
+[MAY 27 2010 23:44:40]: <0x2402> 控制器温度: 35°C
+[MAY 27 2010 23:44:40]: <0x2402> 处理器温度: 41°C
+[MAY 27 2010 23:49:01]: <0x5403> XHS3023L 应用程序停止
+[MAY 28 2010 00:10:41]: <0x1604> 手臂下电...
+[MAY 28 2010 00:10:42]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 00:11:38]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 00:11:38]: <0x1802> 工作模式 : 手动模式
+[MAY 28 2010 00:11:40]: <0x3F1B> 手动运动模式 : Frame
+[MAY 28 2010 00:11:40]: <0x5A03> Deadman validated
+[MAY 28 2010 00:11:41]: <0x1603> 手臂上电中... 
+[MAY 28 2010 00:11:42]: <0x1601> 手臂已上电
+[MAY 28 2010 00:11:46]: <0x5A02> Deadman disabled.
+[MAY 28 2010 00:11:46]: <0x1604> 手臂下电...
+[MAY 28 2010 00:11:46]: <0x3F08> 手臂无法上电: 请按住deadman.
+[MAY 28 2010 00:11:47]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 00:11:50]: <0x3F1B> 手动运动模式 : Disabled
+[MAY 28 2010 00:14:43]: <0x2401> Saving controller context...
+[MAY 28 2010 00:14:44]: <0x2402> 控制器温度: 37°C
+[MAY 28 2010 00:14:44]: <0x2402> 处理器温度: 43°C
+[MAY 28 2010 22:11:54]: -----------------------------------------------
+[MAY 28 2010 22:11:54]: 日志开始
+[MAY 28 2010 22:12:58]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 28 2010 22:12:58]: <0x0003> Cycle time set to 0.002s
+[MAY 28 2010 22:12:58]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 28 2010 22:12:59]: <0x0003> Mcp = D24275106A
+[MAY 28 2010 22:12:59]: <0x0002> Default user payload used.
+[MAY 28 2010 22:12:59]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 28 2010 22:12:59]: <0x340A> Mcp communication established
+[MAY 28 2010 22:12:59]: <0x2401> 上电计时=169:02:56
+[MAY 28 2010 22:12:59]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 28 2010 22:12:59]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 28 2010 22:12:59]: <0x3003> STARC-SerialNumber:18342
+[MAY 28 2010 22:12:59]: <0x3002> STARC-FlashCounter:Power On Board counter=218 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 28 2010 22:12:59]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 28 2010 22:12:59]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 28 2010 22:12:59]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 28 2010 22:12:59]: <0x0003> MCP firmware version: D24275106A
+[MAY 28 2010 22:12:59]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:12:59]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 28 2010 22:12:59]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 28 2010 22:12:59]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 28 2010 22:12:59]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 28 2010 22:12:59]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 28 2010 22:12:59]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 28 2010 22:12:59]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:12:59]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 28 2010 22:12:59]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 28 2010 22:12:59]: <0x2401> Configuration Version: c1.029 
+[MAY 28 2010 22:12:59]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 28 2010 22:12:59]: <0x2401> Option testMode: enabled 
+[MAY 28 2010 22:12:59]: <0x2401> Option mcpMode: enabled 
+[MAY 28 2010 22:12:59]: <0x2401> Option VAL 3: enabled 
+[MAY 28 2010 22:12:59]: <0x2401> Option uniVAL: enabled 
+[MAY 28 2010 22:12:59]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 28 2010 22:12:59]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 28 2010 22:12:59]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 28 2010 22:12:59]: <0x2401> 机器人名:  
+[MAY 28 2010 22:12:59]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 28 2010 22:12:59]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 28 2010 22:12:59]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 28 2010 22:12:59]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 28 2010 22:12:59]: <0x2201> 新用户: default
+[MAY 28 2010 22:12:59]: <0x2401> End of controller initialization
+[MAY 28 2010 22:12:59]: <0x1802> 工作模式 : 手动模式
+[MAY 28 2010 22:12:59]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 28 2010 22:12:59]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 7事件丢失.
+[MAY 28 2010 22:15:13]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:15:14]: <0x1803> 工作模式 : 测试
+[MAY 28 2010 22:15:14]: <0x5A04> Deadman lock to validated
+[MAY 28 2010 22:15:14]: <0x5A02> Deadman disabled.
+[MAY 28 2010 22:15:14]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:15:14]: <0x1804> 工作模式 : 远程
+[MAY 28 2010 22:15:17]: <0x2402> COM-PC: create session 192.168.0.2 on port 1078 id=#79314320
+[MAY 28 2010 22:15:21]: <0x1603> 手臂上电中... 
+[MAY 28 2010 22:15:22]: <0x1601> 手臂已上电
+[MAY 28 2010 22:18:03]: <0x5402> SoapTestScan 应用程序开始
+[MAY 28 2010 22:19:52]: <0x2402> COM-PC: create session 192.168.0.2 on port 1105 id=#45667648
+[MAY 28 2010 22:20:11]: <0x5403> SoapTestScan 应用程序停止
+[MAY 28 2010 22:20:24]: <0x2402> COM-PC: create session 192.168.0.2 on port 1108 id=#54254800
+[MAY 28 2010 22:20:26]: <0x1604> 手臂下电...
+[MAY 28 2010 22:20:27]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:20:43]: <0x1603> 手臂上电中... 
+[MAY 28 2010 22:20:44]: <0x1601> 手臂已上电
+[MAY 28 2010 22:27:37]: <0x1604> 手臂下电...
+[MAY 28 2010 22:27:38]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:27:39]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:27:39]: <0x1801> 工作模式 : 自动
+[MAY 28 2010 22:27:52]: <0x5402> SoapTestScan 应用程序开始
+[MAY 28 2010 22:27:54]: <0x1603> 手臂上电中... 
+[MAY 28 2010 22:27:54]: <0x1601> 手臂已上电
+[MAY 28 2010 22:40:39]: <0x5403> SoapTestScan 应用程序停止
+[MAY 28 2010 22:40:41]: <0x1627> 手臂下电: SAFETY-WorkingMode工作模式改变.
+[MAY 28 2010 22:40:41]: <0x1604> 手臂下电...
+[MAY 28 2010 22:40:41]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:40:41]: <0x1802> 工作模式 : 手动模式
+[MAY 28 2010 22:40:42]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:40:48]: <0x5A03> Deadman validated
+[MAY 28 2010 22:40:49]: <0x1603> 手臂上电中... 
+[MAY 28 2010 22:40:49]: <0x1601> 手臂已上电
+[MAY 28 2010 22:40:50]: <0x3F1B> 手动运动模式 : Frame
+[MAY 28 2010 22:41:00]: <0x5A02> Deadman disabled.
+[MAY 28 2010 22:41:00]: <0x1604> 手臂下电...
+[MAY 28 2010 22:41:00]: <0x3F08> 手臂无法上电: 请按住deadman.
+[MAY 28 2010 22:41:01]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:41:02]: <0x3F1B> 手动运动模式 : Disabled
+[MAY 28 2010 22:43:02]: <0x2401> Saving controller context...
+[MAY 28 2010 22:43:03]: <0x2402> 控制器温度: 34°C
+[MAY 28 2010 22:43:03]: <0x2402> 处理器温度: 40°C
+[MAY 28 2010 22:48:31]: <0x2402> COM-PC: create session 192.168.0.2 on port 1120 id=#88759512
+[MAY 28 2010 22:48:36]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:48:37]: <0x1803> 工作模式 : 测试
+[MAY 28 2010 22:48:37]: <0x5A04> Deadman lock to validated
+[MAY 28 2010 22:48:37]: <0x5A02> Deadman disabled.
+[MAY 28 2010 22:48:37]: <0x1805> 工作模式 : 无效 
+[MAY 28 2010 22:48:37]: <0x1804> 工作模式 : 远程
+[MAY 28 2010 22:48:40]: <0x1603> 手臂上电中... 
+[MAY 28 2010 22:48:40]: <0x1601> 手臂已上电
+[MAY 28 2010 22:52:46]: <0x2402> COM-PC: create session 192.168.0.2 on port 1128 id=#88761792
+[MAY 28 2010 22:52:53]: <0x1604> 手臂下电...
+[MAY 28 2010 22:52:54]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:52:56]: <0x1603> 手臂上电中... 
+[MAY 28 2010 22:52:56]: <0x1601> 手臂已上电
+[MAY 28 2010 22:53:30]: <0x1604> 手臂下电...
+[MAY 28 2010 22:53:31]: <0x1602> 手臂下电过程结束
+[MAY 28 2010 22:53:33]: <0x2402> COM-PC: destroy session 192.168.0.2 on port 1128 id=#88761792
+[MAY 28 2010 23:05:38]: <0x2402> COM-PC: create session 192.168.0.2 on port 1171 id=#88762648
+[MAY 28 2010 23:13:09]: <0x2401> Saving controller context...
+[MAY 28 2010 23:23:50]: <0x2402> COM-PC: create session 192.168.0.2 on port 1173 id=#10435520
+[MAY 28 2010 23:24:04]: <0x1603> 手臂上电中... 
+[MAY 28 2010 23:24:05]: <0x1601> 手臂已上电
+[MAY 28 2010 23:43:14]: <0x2401> Saving controller context...
+[MAY 28 2010 23:43:14]: <0x2402> 控制器温度: 36°C
+[MAY 28 2010 23:43:14]: <0x2402> 处理器温度: 41°C
+[MAY 28 2010 23:45:37]: <0x2402> COM-PC: create session 192.168.0.2 on port 1179 id=#88760992
+[MAY 29 2010 00:13:17]: <0x2401> Saving controller context...
+[MAY 29 2010 00:13:17]: <0x2402> 控制器温度: 38°C
+[MAY 29 2010 00:13:17]: <0x2402> 处理器温度: 43°C
+[MAY 29 2010 00:17:29]: <0x1627> 手臂下电: SAFETY-WorkingMode工作模式改变.
+[MAY 29 2010 00:17:29]: <0x1604> 手臂下电...
+[MAY 29 2010 00:17:29]: <0x1805> 工作模式 : 无效 
+[MAY 29 2010 00:17:29]: <0x1801> 工作模式 : 自动
+[MAY 29 2010 00:17:30]: <0x1805> 工作模式 : 无效 
+[MAY 29 2010 00:17:30]: <0x1802> 工作模式 : 手动模式
+[MAY 29 2010 00:17:30]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 00:17:48]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 29 2010 01:41:27]: -----------------------------------------------
+[MAY 29 2010 01:41:27]: 日志开始
+[MAY 29 2010 01:42:31]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 29 2010 01:42:31]: <0x0003> Cycle time set to 0.002s
+[MAY 29 2010 01:42:31]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 29 2010 01:42:31]: <0x0003> Mcp = D24275106A
+[MAY 29 2010 01:42:31]: <0x0002> Default user payload used.
+[MAY 29 2010 01:42:31]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 29 2010 01:42:31]: <0x340A> Mcp communication established
+[MAY 29 2010 01:42:31]: <0x2401> 上电计时=170:21:52
+[MAY 29 2010 01:42:31]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 29 2010 01:42:31]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 29 2010 01:42:31]: <0x3003> STARC-SerialNumber:18342
+[MAY 29 2010 01:42:31]: <0x3002> STARC-FlashCounter:Power On Board counter=219 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 29 2010 01:42:31]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 29 2010 01:42:31]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 29 2010 01:42:31]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 29 2010 01:42:31]: <0x0003> MCP firmware version: D24275106A
+[MAY 29 2010 01:42:31]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 01:42:31]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 29 2010 01:42:31]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 29 2010 01:42:31]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 29 2010 01:42:31]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 29 2010 01:42:31]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 29 2010 01:42:31]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 29 2010 01:42:31]: <0x1805> 工作模式 : 无效 
+[MAY 29 2010 01:42:31]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 29 2010 01:42:31]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 29 2010 01:42:31]: <0x2401> Configuration Version: c1.029 
+[MAY 29 2010 01:42:31]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 29 2010 01:42:32]: <0x2401> Option testMode: enabled 
+[MAY 29 2010 01:42:32]: <0x2401> Option mcpMode: enabled 
+[MAY 29 2010 01:42:32]: <0x2401> Option VAL 3: enabled 
+[MAY 29 2010 01:42:32]: <0x2401> Option uniVAL: enabled 
+[MAY 29 2010 01:42:32]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 29 2010 01:42:32]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 29 2010 01:42:32]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 29 2010 01:42:32]: <0x2401> 机器人名:  
+[MAY 29 2010 01:42:32]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 29 2010 01:42:32]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 29 2010 01:42:32]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 29 2010 01:42:32]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 29 2010 01:42:32]: <0x2201> 新用户: default
+[MAY 29 2010 01:42:32]: <0x2401> End of controller initialization
+[MAY 29 2010 01:42:32]: <0x1804> 工作模式 : 远程
+[MAY 29 2010 01:42:32]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 29 2010 01:42:32]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 5事件丢失.
+[MAY 29 2010 01:44:48]: <0x1805> 工作模式 : 无效 
+[MAY 29 2010 01:44:49]: <0x1801> 工作模式 : 自动
+[MAY 29 2010 01:44:53]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 01:44:55]: <0x1603> 手臂上电中... 
+[MAY 29 2010 01:44:56]: <0x1601> 手臂已上电
+[MAY 29 2010 01:49:14]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 01:51:21]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 01:51:24]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 01:51:37]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 01:51:50]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 01:52:48]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 01:53:57]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 01:54:00]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 01:54:27]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 01:55:03]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 01:55:24]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 01:57:40]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 01:57:55]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 01:58:04]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 01:58:38]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 01:58:48]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 01:58:57]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:00:10]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:00:31]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:00:38]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:02:45]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:02:55]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:03:02]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:09:50]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:10:02]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:10:13]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:10:46]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:12:07]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:12:14]: <0x1604> 手臂下电...
+[MAY 29 2010 02:12:15]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 02:12:34]: <0x2401> Saving controller context...
+[MAY 29 2010 02:12:34]: <0x2402> 控制器温度: 38°C
+[MAY 29 2010 02:12:34]: <0x2402> 处理器温度: 43°C
+[MAY 29 2010 02:15:48]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:15:49]: <0x1603> 手臂上电中... 
+[MAY 29 2010 02:15:50]: <0x1601> 手臂已上电
+[MAY 29 2010 02:16:08]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:16:16]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:16:49]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:16:58]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:17:03]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:17:24]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:17:32]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:17:39]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:18:23]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:18:32]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:21:24]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:21:28]: <0x5402> Robotscan 应用程序开始
+[MAY 29 2010 02:21:45]: <0x5404> ERR 125 输入输出无响应. PositionTrigger. 
+[MAY 29 2010 02:21:52]: <0x5403> Robotscan 应用程序停止
+[MAY 29 2010 02:21:55]: <0x1604> 手臂下电...
+[MAY 29 2010 02:21:56]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 02:22:08]: <0x4E01> 项目/usr/usrapp/Robotscan 已保存.
+[MAY 29 2010 02:22:31]: <0x5402> SoapTestScan 应用程序开始
+[MAY 29 2010 02:22:32]: <0x1603> 手臂上电中... 
+[MAY 29 2010 02:22:33]: <0x1601> 手臂已上电
+[MAY 29 2010 02:23:23]: <0x5403> SoapTestScan 应用程序停止
+[MAY 29 2010 02:23:28]: <0x1627> 手臂下电: SAFETY-WorkingMode工作模式改变.
+[MAY 29 2010 02:23:28]: <0x1604> 手臂下电...
+[MAY 29 2010 02:23:28]: <0x1805> 工作模式 : 无效 
+[MAY 29 2010 02:23:28]: <0x1802> 工作模式 : 手动模式
+[MAY 29 2010 02:23:29]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 02:23:30]: <0x5A03> Deadman validated
+[MAY 29 2010 02:23:30]: <0x3F1B> 手动运动模式 : Frame
+[MAY 29 2010 02:23:31]: <0x1603> 手臂上电中... 
+[MAY 29 2010 02:23:32]: <0x1601> 手臂已上电
+[MAY 29 2010 02:23:41]: <0x5A02> Deadman disabled.
+[MAY 29 2010 02:23:41]: <0x1604> 手臂下电...
+[MAY 29 2010 02:23:41]: <0x3F08> 手臂无法上电: 请按住deadman.
+[MAY 29 2010 02:23:42]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 02:23:43]: <0x3F1B> 手动运动模式 : Disabled
+[MAY 29 2010 02:42:41]: <0x2401> Saving controller context...
+[MAY 29 2010 02:42:41]: <0x2402> 控制器温度: 37°C
+[MAY 29 2010 02:42:41]: <0x2402> 处理器温度: 42°C
+[MAY 29 2010 03:12:48]: <0x2401> Saving controller context...
+[MAY 29 2010 03:12:49]: <0x2402> 控制器温度: 36°C
+[MAY 29 2010 03:12:49]: <0x2402> 处理器温度: 41°C
+[MAY 29 2010 03:42:56]: <0x2401> Saving controller context...
+[MAY 29 2010 03:51:01]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 29 2010 16:53:04]: -----------------------------------------------
+[MAY 29 2010 16:53:04]: 日志开始
+[MAY 29 2010 16:54:08]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 29 2010 16:54:08]: <0x0003> Cycle time set to 0.002s
+[MAY 29 2010 16:54:08]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 29 2010 16:54:08]: <0x0003> Mcp = D24275106A
+[MAY 29 2010 16:54:08]: <0x0002> Default user payload used.
+[MAY 29 2010 16:54:09]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 29 2010 16:54:09]: <0x340A> Mcp communication established
+[MAY 29 2010 16:54:09]: <0x2401> 上电计时=170:56:21
+[MAY 29 2010 16:54:09]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 29 2010 16:54:09]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 29 2010 16:54:09]: <0x3003> STARC-SerialNumber:18342
+[MAY 29 2010 16:54:09]: <0x3002> STARC-FlashCounter:Power On Board counter=220 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 29 2010 16:54:09]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 29 2010 16:54:09]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 29 2010 16:54:09]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 29 2010 16:54:09]: <0x0003> MCP firmware version: D24275106A
+[MAY 29 2010 16:54:09]: <0x1602> 手臂下电过程结束
+[MAY 29 2010 16:54:09]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 29 2010 16:54:09]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 29 2010 16:54:09]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 29 2010 16:54:09]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 29 2010 16:54:09]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 29 2010 16:54:09]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 29 2010 16:54:09]: <0x1805> 工作模式 : 无效 
+[MAY 29 2010 16:54:09]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 29 2010 16:54:09]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 29 2010 16:54:09]: <0x2401> Configuration Version: c1.029 
+[MAY 29 2010 16:54:09]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 29 2010 16:54:09]: <0x2401> Option testMode: enabled 
+[MAY 29 2010 16:54:09]: <0x2401> Option mcpMode: enabled 
+[MAY 29 2010 16:54:09]: <0x2401> Option VAL 3: enabled 
+[MAY 29 2010 16:54:09]: <0x2401> Option uniVAL: enabled 
+[MAY 29 2010 16:54:09]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 29 2010 16:54:09]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 29 2010 16:54:09]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 29 2010 16:54:09]: <0x2401> 机器人名:  
+[MAY 29 2010 16:54:09]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 29 2010 16:54:09]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 29 2010 16:54:09]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 29 2010 16:54:09]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 29 2010 16:54:09]: <0x2201> 新用户: default
+[MAY 29 2010 16:54:09]: <0x2401> End of controller initialization
+[MAY 29 2010 16:54:09]: <0x1802> 工作模式 : 手动模式
+[MAY 29 2010 16:54:09]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 29 2010 16:54:09]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 6事件丢失.
+[MAY 29 2010 17:24:16]: <0x2401> Saving controller context...
+[MAY 29 2010 17:24:16]: <0x2402> 控制器温度: 32°C
+[MAY 29 2010 17:24:16]: <0x2402> 处理器温度: 38°C
+[MAY 29 2010 17:54:24]: <0x2401> Saving controller context...
+[MAY 29 2010 17:54:24]: <0x2402> 控制器温度: 33°C
+[MAY 29 2010 17:54:24]: <0x2402> 处理器温度: 39°C
+[MAY 29 2010 18:21:33]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 30 2010 03:27:08]: -----------------------------------------------
+[MAY 30 2010 03:27:08]: 日志开始
+[MAY 30 2010 03:28:12]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 30 2010 03:28:12]: <0x0003> Cycle time set to 0.002s
+[MAY 30 2010 03:28:13]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 30 2010 03:28:13]: <0x0003> Mcp = D24275106A
+[MAY 30 2010 03:28:13]: <0x0002> Default user payload used.
+[MAY 30 2010 03:28:13]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 30 2010 03:28:13]: <0x340A> Mcp communication established
+[MAY 30 2010 03:28:13]: <0x2401> 上电计时=170:56:21
+[MAY 30 2010 03:28:13]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 30 2010 03:28:13]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 30 2010 03:28:13]: <0x3003> STARC-SerialNumber:18342
+[MAY 30 2010 03:28:13]: <0x3002> STARC-FlashCounter:Power On Board counter=221 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 30 2010 03:28:13]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 30 2010 03:28:13]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 03:28:13]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 03:28:13]: <0x0003> MCP firmware version: D24275106A
+[MAY 30 2010 03:28:13]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 03:28:13]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 30 2010 03:28:13]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 30 2010 03:28:13]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 30 2010 03:28:13]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 30 2010 03:28:13]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 30 2010 03:28:13]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 30 2010 03:28:13]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 03:28:13]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 30 2010 03:28:13]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 30 2010 03:28:13]: <0x2401> Configuration Version: c1.029 
+[MAY 30 2010 03:28:13]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 30 2010 03:28:13]: <0x2401> Option testMode: enabled 
+[MAY 30 2010 03:28:13]: <0x2401> Option mcpMode: enabled 
+[MAY 30 2010 03:28:13]: <0x2401> Option VAL 3: enabled 
+[MAY 30 2010 03:28:13]: <0x2401> Option uniVAL: enabled 
+[MAY 30 2010 03:28:13]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 30 2010 03:28:13]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 30 2010 03:28:13]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 30 2010 03:28:13]: <0x2401> 机器人名:  
+[MAY 30 2010 03:28:13]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 30 2010 03:28:13]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 30 2010 03:28:13]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:13]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 30 2010 03:28:13]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:14]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:14]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:14]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:14]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:14]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 30 2010 03:28:14]: <0x2201> 新用户: default
+[MAY 30 2010 03:28:14]: <0x2401> End of controller initialization
+[MAY 30 2010 03:28:14]: <0x1802> 工作模式 : 手动模式
+[MAY 30 2010 03:28:14]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 30 2010 03:28:14]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 5事件丢失.
+[MAY 30 2010 03:58:20]: <0x2401> Saving controller context...
+[MAY 30 2010 03:58:20]: <0x2402> 控制器温度: 32°C
+[MAY 30 2010 03:58:20]: <0x2402> 处理器温度: 38°C
+[MAY 30 2010 03:58:26]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 03:58:26]: <0x1803> 工作模式 : 测试
+[MAY 30 2010 03:58:26]: <0x5A04> Deadman lock to validated
+[MAY 30 2010 03:58:26]: <0x5A02> Deadman disabled.
+[MAY 30 2010 03:58:26]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 03:58:26]: <0x1804> 工作模式 : 远程
+[MAY 30 2010 03:58:32]: <0x2402> COM-PC: create session 192.168.0.2 on port 1192 id=#45668040
+[MAY 30 2010 03:58:37]: <0x1603> 手臂上电中... 
+[MAY 30 2010 03:58:38]: <0x1601> 手臂已上电
+[MAY 30 2010 04:08:27]: <0x1627> 手臂下电: SAFETY-WorkingMode工作模式改变.
+[MAY 30 2010 04:08:27]: <0x1604> 手臂下电...
+[MAY 30 2010 04:08:27]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 04:08:27]: <0x1801> 工作模式 : 自动
+[MAY 30 2010 04:08:29]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 04:08:29]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 04:08:29]: <0x1802> 工作模式 : 手动模式
+[MAY 30 2010 04:08:30]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 04:08:30]: <0x1803> 工作模式 : 测试
+[MAY 30 2010 04:08:30]: <0x5A04> Deadman lock to validated
+[MAY 30 2010 04:08:39]: <0x1603> 手臂上电中... 
+[MAY 30 2010 04:08:40]: <0x1601> 手臂已上电
+[MAY 30 2010 04:08:45]: <0x2402> COM-PC: create session 192.168.0.2 on port 1194 id=#45207680
+[MAY 30 2010 04:11:25]: <0x1627> 手臂下电: SAFETY-WorkingMode工作模式改变.
+[MAY 30 2010 04:11:25]: <0x1604> 手臂下电...
+[MAY 30 2010 04:11:25]: <0x5A02> Deadman disabled.
+[MAY 30 2010 04:11:25]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 04:11:25]: <0x1804> 工作模式 : 远程
+[MAY 30 2010 04:11:26]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 04:11:53]: <0x2402> COM-PC: create session 192.168.0.2 on port 1196 id=#45671984
+[MAY 30 2010 04:11:55]: <0x1603> 手臂上电中... 
+[MAY 30 2010 04:11:56]: <0x1601> 手臂已上电
+[MAY 30 2010 04:18:47]: <0x2402> COM-PC: create session 192.168.0.2 on port 1199 id=#45212048
+[MAY 30 2010 04:19:55]: <0x1604> 手臂下电...
+[MAY 30 2010 04:19:56]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 04:23:21]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 04:23:21]: <0x1801> 工作模式 : 自动
+[MAY 30 2010 04:23:24]: <0x5402> SoapTestScan 应用程序开始
+[MAY 30 2010 04:23:41]: <0x1603> 手臂上电中... 
+[MAY 30 2010 04:23:42]: <0x1601> 手臂已上电
+[MAY 30 2010 04:28:24]: <0x2401> Saving controller context...
+[MAY 30 2010 04:28:25]: <0x2402> 控制器温度: 36°C
+[MAY 30 2010 04:28:25]: <0x2402> 处理器温度: 41°C
+[MAY 30 2010 04:28:53]: <0x5404> ERR 20 数组索引大于数组的尺寸. CmdTxtReading. 
+[MAY 30 2010 04:31:10]: <0x5403> SoapTestScan 应用程序停止
+[MAY 30 2010 04:31:37]: <0x1604> 手臂下电...
+[MAY 30 2010 04:31:38]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 04:31:38]: <0x1802> 工作模式 : 手动模式
+[MAY 30 2010 04:31:38]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 04:31:41]: <0x5A03> Deadman validated
+[MAY 30 2010 04:31:41]: <0x3F1B> 手动运动模式 : Frame
+[MAY 30 2010 04:31:42]: <0x1603> 手臂上电中... 
+[MAY 30 2010 04:31:42]: <0x1601> 手臂已上电
+[MAY 30 2010 04:31:56]: <0x5A01> Deadman enabled.
+[MAY 30 2010 04:32:03]: <0x5A02> Deadman disabled.
+[MAY 30 2010 04:32:03]: <0x1604> 手臂下电...
+[MAY 30 2010 04:32:03]: <0x3F08> 手臂无法上电: 请按住deadman.
+[MAY 30 2010 04:32:04]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 04:32:06]: <0x3F1B> 手动运动模式 : Disabled
+[MAY 30 2010 04:33:38]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 30 2010 17:50:49]: -----------------------------------------------
+[MAY 30 2010 17:50:49]: 日志开始
+[MAY 30 2010 17:51:53]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 30 2010 17:51:53]: <0x0003> Cycle time set to 0.002s
+[MAY 30 2010 17:51:53]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 30 2010 17:51:53]: <0x0003> Mcp = D24275106A
+[MAY 30 2010 17:51:54]: <0x0002> Default user payload used.
+[MAY 30 2010 17:51:54]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 30 2010 17:51:54]: <0x340A> Mcp communication established
+[MAY 30 2010 17:51:54]: <0x2401> 上电计时=171:21:37
+[MAY 30 2010 17:51:54]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 30 2010 17:51:54]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 30 2010 17:51:54]: <0x3003> STARC-SerialNumber:18342
+[MAY 30 2010 17:51:54]: <0x3002> STARC-FlashCounter:Power On Board counter=222 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 30 2010 17:51:54]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 30 2010 17:51:54]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 17:51:54]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 17:51:54]: <0x0003> MCP firmware version: D24275106A
+[MAY 30 2010 17:51:54]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 17:51:54]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 30 2010 17:51:54]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 30 2010 17:51:54]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 30 2010 17:51:54]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 30 2010 17:51:54]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 30 2010 17:51:54]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 30 2010 17:51:54]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 17:51:54]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 30 2010 17:51:54]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 30 2010 17:51:54]: <0x2401> Configuration Version: c1.029 
+[MAY 30 2010 17:51:54]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 30 2010 17:51:54]: <0x2401> Option testMode: enabled 
+[MAY 30 2010 17:51:54]: <0x2401> Option mcpMode: enabled 
+[MAY 30 2010 17:51:54]: <0x2401> Option VAL 3: enabled 
+[MAY 30 2010 17:51:54]: <0x2401> Option uniVAL: enabled 
+[MAY 30 2010 17:51:54]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 30 2010 17:51:54]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 30 2010 17:51:54]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 30 2010 17:51:54]: <0x2401> 机器人名:  
+[MAY 30 2010 17:51:54]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 30 2010 17:51:54]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 30 2010 17:51:54]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 30 2010 17:51:54]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 30 2010 17:51:54]: <0x2201> 新用户: default
+[MAY 30 2010 17:51:54]: <0x2401> End of controller initialization
+[MAY 30 2010 17:51:54]: <0x1801> 工作模式 : 自动
+[MAY 30 2010 17:51:54]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 30 2010 17:51:54]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 5事件丢失.
+[MAY 30 2010 17:52:01]: <0x2402> COM-PC: create session 192.168.0.2 on port 1062 id=#79314560
+[MAY 30 2010 17:53:09]: <0x4001> 手臂上电要求被拒绝:控制器工作模式是远程的或无效的.
+[MAY 30 2010 17:53:13]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 17:53:13]: <0x1802> 工作模式 : 手动模式
+[MAY 30 2010 17:53:13]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 17:53:13]: <0x1803> 工作模式 : 测试
+[MAY 30 2010 17:53:13]: <0x5A04> Deadman lock to validated
+[MAY 30 2010 17:53:14]: <0x5A02> Deadman disabled.
+[MAY 30 2010 17:53:14]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 17:53:14]: <0x1804> 工作模式 : 远程
+[MAY 30 2010 17:53:16]: <0x1603> 手臂上电中... 
+[MAY 30 2010 17:53:17]: <0x1601> 手臂已上电
+[MAY 30 2010 18:06:32]: <0x1604> 手臂下电...
+[MAY 30 2010 18:06:33]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 18:10:11]: <0x1603> 手臂上电中... 
+[MAY 30 2010 18:10:12]: <0x1601> 手臂已上电
+[MAY 30 2010 18:20:10]: <0x2201> 新用户: maintenance
+[MAY 30 2010 18:21:17]: <0x1604> 手臂下电...
+[MAY 30 2010 18:21:19]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 18:21:58]: <0x2401> Saving controller context...
+[MAY 30 2010 18:21:58]: <0x2402> 控制器温度: 34°C
+[MAY 30 2010 18:21:58]: <0x2402> 处理器温度: 39°C
+[MAY 30 2010 18:24:02]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 30 2010 18:25:34]: -----------------------------------------------
+[MAY 30 2010 18:25:34]: 日志开始
+[MAY 30 2010 18:26:38]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 30 2010 18:26:38]: <0x0003> Cycle time set to 0.002s
+[MAY 30 2010 18:26:38]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 30 2010 18:26:38]: <0x0003> Mcp = D24275106A
+[MAY 30 2010 18:26:38]: <0x0002> Default user payload used.
+[MAY 30 2010 18:26:39]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 30 2010 18:26:39]: <0x340A> Mcp communication established
+[MAY 30 2010 18:26:39]: <0x2401> 上电计时=171:45:58
+[MAY 30 2010 18:26:39]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 30 2010 18:26:39]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 30 2010 18:26:39]: <0x3003> STARC-SerialNumber:18342
+[MAY 30 2010 18:26:39]: <0x3002> STARC-FlashCounter:Power On Board counter=223 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 30 2010 18:26:39]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 30 2010 18:26:39]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 18:26:39]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 18:26:39]: <0x0003> MCP firmware version: D24275106A
+[MAY 30 2010 18:26:39]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 18:26:39]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 30 2010 18:26:39]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 30 2010 18:26:39]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 30 2010 18:26:39]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 30 2010 18:26:39]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 30 2010 18:26:39]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 30 2010 18:26:39]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 18:26:39]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 30 2010 18:26:39]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 30 2010 18:26:39]: <0x2401> Configuration Version: c1.029 
+[MAY 30 2010 18:26:39]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 30 2010 18:26:39]: <0x2401> Option testMode: enabled 
+[MAY 30 2010 18:26:39]: <0x2401> Option mcpMode: enabled 
+[MAY 30 2010 18:26:39]: <0x2401> Option VAL 3: enabled 
+[MAY 30 2010 18:26:39]: <0x2401> Option uniVAL: enabled 
+[MAY 30 2010 18:26:39]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 30 2010 18:26:39]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 30 2010 18:26:39]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 30 2010 18:26:39]: <0x2401> 机器人名:  
+[MAY 30 2010 18:26:39]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 30 2010 18:26:39]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 30 2010 18:26:39]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 30 2010 18:26:39]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 30 2010 18:26:39]: <0x2201> 新用户: maintenance
+[MAY 30 2010 18:26:39]: <0x2401> End of controller initialization
+[MAY 30 2010 18:26:39]: <0x1804> 工作模式 : 远程
+[MAY 30 2010 18:26:39]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 30 2010 18:26:39]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 4事件丢失.
+[MAY 30 2010 18:27:01]: <0x2402> COM-PC: create session 192.168.0.2 on port 1069 id=#79314032
+[MAY 30 2010 18:27:04]: <0x1603> 手臂上电中... 
+[MAY 30 2010 18:27:04]: <0x1601> 手臂已上电
+[MAY 30 2010 18:31:19]: <0x2201> 新用户: maintenance
+[MAY 30 2010 18:31:24]: <0x1604> 手臂下电...
+[MAY 30 2010 18:31:25]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 18:33:34]: <0x1E02> 手臂下电:发现控制器关闭(SECTEUR_OK信号),需要重启恢复
+[MAY 30 2010 20:58:06]: -----------------------------------------------
+[MAY 30 2010 20:58:06]: 日志开始
+[MAY 30 2010 20:59:10]: <0x0003> CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+[MAY 30 2010 20:59:10]: <0x0003> Cycle time set to 0.002s
+[MAY 30 2010 20:59:10]: <0x0003> RSI Board rev: 2 - Driver ver: 2
+[MAY 30 2010 20:59:11]: <0x0003> Mcp = D24275106A
+[MAY 30 2010 20:59:11]: <0x0002> Default user payload used.
+[MAY 30 2010 20:59:11]: <0x0003> Payload default: mass=5 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.043875 yy=0.043875 zz=0.0416 kg.m^2
+[MAY 30 2010 20:59:11]: <0x340A> Mcp communication established
+[MAY 30 2010 20:59:11]: <0x2401> 上电计时=171:45:58
+[MAY 30 2010 20:59:11]: <0x2401> Mac 地址 =00-c0-3a-02-f0-9d
+[MAY 30 2010 20:59:11]: <0x3001> STARC-FpgaVersion:BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+[MAY 30 2010 20:59:11]: <0x3003> STARC-SerialNumber:18342
+[MAY 30 2010 20:59:11]: <0x3002> STARC-FlashCounter:Power On Board counter=224 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+[MAY 30 2010 20:59:11]: <0x0003> STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+[MAY 30 2010 20:59:11]: <0x0003> STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 20:59:11]: <0x0003> STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+[MAY 30 2010 20:59:11]: <0x0003> MCP firmware version: D24275106A
+[MAY 30 2010 20:59:11]: <0x1602> 手臂下电过程结束
+[MAY 30 2010 20:59:11]: <0x4B18> Unival: Hilscher driver: cifX Toolkit 1.1.2.0
+[MAY 30 2010 20:59:11]: <0x4B15> Unival: Hilscher board SN:25786 detected: ID_stbl:0x61 Checked
+[MAY 30 2010 20:59:11]: <0x4B16> Unival: Hilscher board SN:25786 channel 0 detected: Sercos III Slave; 3.1.0.21
+[MAY 30 2010 20:59:11]: <0x4B16> Unival: Hilscher board SN:25786 channel 1 detected: Ethernet Interface; 4.0.0.0
+[MAY 30 2010 20:59:11]: <0x4B17> Unival: Hilscher board SN:25786 channel 0 matches requested config
+[MAY 30 2010 20:59:11]: <0x4B35> Unival: Phase Changed to NRT
+[MAY 30 2010 20:59:11]: <0x1805> 工作模式 : 无效 
+[MAY 30 2010 20:59:11]: <0x2402> COM-PC: server created on all interfaces [5653]
+[MAY 30 2010 20:59:11]: <0x2401> System: s7.7.2 Nov  3 2014
+[MAY 30 2010 20:59:11]: <0x2401> Configuration Version: c1.029 
+[MAY 30 2010 20:59:11]: <0x2401> CPU: MM01-09-12445-02.00.00 
+[MAY 30 2010 20:59:11]: <0x2401> Option testMode: enabled 
+[MAY 30 2010 20:59:11]: <0x2401> Option mcpMode: enabled 
+[MAY 30 2010 20:59:11]: <0x2401> Option VAL 3: enabled 
+[MAY 30 2010 20:59:11]: <0x2401> Option uniVAL: enabled 
+[MAY 30 2010 20:59:11]: <0x2401> 控制器序列号: F15_5Z9FB1_C_01 
+[MAY 30 2010 20:59:11]: <0x2401> 手臂: tx90l-S1-R3 落地安装
+[MAY 30 2010 20:59:11]: <0x2401> 手臂序列号: F15_5Z9FB1_A_01 
+[MAY 30 2010 20:59:11]: <0x2401> 机器人名:  
+[MAY 30 2010 20:59:11]: <0x2401> Starc: 2.7.1 April, 14 2015
+[MAY 30 2010 20:59:11]: <0x2401> uniVAL-s3: s7.7.2 Nov  3 2014
+[MAY 30 2010 20:59:11]: <0x2401> EP: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2401> SCA: s7.7.2 Nov  3 2014
+[MAY 30 2010 20:59:11]: <0x2401> Expansion: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2401> Motion: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2401> Recorder: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2401> Relbo: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2401> Remote: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2401> Velocity: s7.7.2 Nov  4 2014
+[MAY 30 2010 20:59:11]: <0x2201> 新用户: maintenance
+[MAY 30 2010 20:59:11]: <0x2401> End of controller initialization
+[MAY 30 2010 20:59:11]: <0x1804> 工作模式 : 远程
+[MAY 30 2010 20:59:11]: <0x1A03> 系统事件INTERFACE-Stopped  主菜单)
+[MAY 30 2010 20:59:11]: <0x1A04> 系统事件INTERFACE-Stopped  主菜单). 3事件丢失.
+[MAY 30 2010 21:22:08]: <0x2404> 
+---System-Versions-Begin-----------------
+CPU board: MM01-09-12445-02.00.00 1097Mhz; 512Mb RAM; 1984Mb disk; bios: 1.43; fpga: A1
+Cycle time set to 0.002s
+RSI Board rev: 2 - Driver ver: 2
+Mac 地址 =00-c0-3a-02-f0-9d
+BoardId:0x0531='STARC2' - BoardRev:1 - FpgaRev:0x0206='2.6' - Bootloader='1.0'
+18342
+Power On Board counter=224 ; Auto Test Flash check sum : fpga_res=0, fpga_fw=1, dsp=0
+STARC_Version Pack: 2.7.1 - Date:April, 14 2015
+STARC_Version Board:DVC:1329 - BOARD:1 - FPGA:2.6 - DSP1:3.19 - DSP2:3.19
+STARC-Version Dsi:  DVC:756 - MOTH:0 - DAUG:0 - FPGAR:3.0 - FPGAF:3.1 - DSPR:4.0 - DSPF:4.9
+STARC-Version Encoder1: IdNb=524536-04 ; SerialNb= 48404252B
+STARC-Version Encoder2: IdNb=524536-04 ; SerialNb= 48300043B
+STARC-Version Encoder3: IdNb=524536-04 ; SerialNb= 48300079B
+STARC-Version Encoder4: IdNb=524536-04 ; SerialNb= 48154549B
+STARC-Version Encoder5: IdNb=524536-04 ; SerialNb= 48299845B
+STARC-Version Encoder6: IdNb=524536-04 ; SerialNb= 48907479B
+STARC-Version Drv0: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+STARC-Version Drv1: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+STARC-Version Drv2: DP:32 - DF:232 - FP:1 - FF:7 - HD:1 - HP0:2 - HP1:2 - LIB:22
+MCP firmware version: D24275106A
+System: s7.7.2 Nov  3 2014
+Configuration Version: c1.029 
+CPU: MM01-09-12445-02.00.00 
+Option testMode: enabled 
+Option mcpMode: enabled 
+Option VAL 3: enabled 
+Option uniVAL: enabled 
+控制器序列号: F15_5Z9FB1_C_01 
+手臂: tx90l-S1-R3 落地安装
+手臂序列号: F15_5Z9FB1_A_01 
+机器人名:  
+Starc: 2.7.1 April, 14 2015
+uniVAL-s3: s7.7.2 Nov  3 2014
+EP: s7.7.2 Nov  4 2014
+SCA: s7.7.2 Nov  3 2014
+Expansion: s7.7.2 Nov  4 2014
+Motion: s7.7.2 Nov  4 2014
+Recorder: s7.7.2 Nov  4 2014
+Relbo: s7.7.2 Nov  4 2014
+Remote: s7.7.2 Nov  4 2014
+Velocity: s7.7.2 Nov  4 2014
+---System-Versions-End-------------------
+
+[MAY 30 2010 21:22:08]: <0x2404> 
+---System-Diagnostic-Begin---------------
+ARPS = OK
+RSI board = OK
+Starc board = OK
+Bus between Starc board and DSI board = OK
+Bus between Starc board and drives = OK
+DSI board = OK
+Encoder1 = OK
+Encoder2 = OK
+Encoder3 = OK
+Encoder4 = OK
+Encoder5 = OK
+Encoder6 = OK
+Drive1 = disabled
+Drive2 = disabled
+Drive3 = disabled
+Drive4 = disabled
+Drive5 = disabled
+Drive6 = disabled
+Mcp = connected
+RSI display = U
+---System-Diagnostic-End-----------------
